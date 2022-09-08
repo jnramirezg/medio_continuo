@@ -5,7 +5,7 @@
 | ---                       | ---                                                             |
 | **Semana universitaria:** | lunes 19 de septiembre de 2022– sábado 24 de septiembre de 2022 |
 | **Fin:**                  | martes 06 de diciembre de 2022                                  |
-| ** Notas SIA:**           | hasta las 5PM del sábado 10 de diciembre de 2022                |
+| **Notas SIA:**           | hasta las 5PM del sábado 10 de diciembre de 2022                |
 
 <sub>[Res. 921 de 2021 de Rectoría](http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=99433)</sub>
 <sub>[Acuerdo 05 de 2022 de CdS Manizales](https://intranet.manizales.unal.edu.co/postmaster/2022/postadjunto26764.pdf)</sub>
