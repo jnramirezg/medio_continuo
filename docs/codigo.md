@@ -10,7 +10,7 @@ Si quiere correr por usted mismo uno de los cuadernos, o hacer una copia para es
 
 | Demostraciones                            | Ejemplos                                                         |  Ejercicios                                                   |
 | ---                                       | ---                                                              | ---                                                           | 
-| [02-(2_6_2)-cambio_base_bi.ipynb](codigo/02-(2_6_2)-cambio_base_bi.ipynb|                               |                                                               |               
-| [02-(2_6_2)-cambio_base_bi.ipynb](02-(2_6_2)-cambio_base_bi.ipynb)   | [03-(2_6_2)-problema_flamant.ipynb](codigo/03-(2_6_2)-problema_flamant.ipynb)    |                                                               |
+| [01-cambio de base tridimensional](01-(2_6_1)-cambio_base_tri.ipynb)|                               |                                                               |               
+| [02-cambio de base bidimensional](02-(2_6_2)-cambio_base_bi.ipynb)   | [03-problema Flamant](codigo/03-(2_6_2)-problema_flamant.ipynb)    |                                                               |
 
 
