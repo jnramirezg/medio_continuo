@@ -8,9 +8,10 @@ Si quiere correr por usted mismo uno de los cuadernos, o hacer una copia para es
 
 ## 02. Estudio de los esfuerzos en un punto
 
-| Demostraciones                                                         | Ejemplos                                                 | 
-| ---                                                                    | ---                                                      |
-| [01-cambio de base tridimensional](01-(2_6_1)-cambio_base_tri.ipynb)   |                                                          |                                            
-| [02-cambio de base bidimensional](02-(2_6_2)-cambio_base_bi.ipynb)     | [03-problema Flamant](03-(2_6_2)-problema_flamant.ipynb) |
-| [04-esfuerzos tangenciales y normales](04-(02_07)-tan_nor_plano.ipynb) |                                                          |
+| Demostraciones                                                               | Ejemplos                                                         | Adicionales |
+| ---                                                                          | ---                                                              | ---         |
+| [01-cambio de base tridimensional (2.6.1)](01-(2_6_1)-cambio_base_tri.ipynb) |                                                                  |             |                                            
+| [02-cambio de base bidimensional (2.6.2)](02-(2_6_2)-cambio_base_bi.ipynb)   | [03-problema Flamant (2.6.2)](03-(2_6_2)-problema_flamant.ipynb) |             |
+| [04-esfuerzos tangenciales y normales (2.7)](04-(02_07)-tan_nor_plano.ipynb)  |                                                                  |             |
+|                                                                              | [05-ejemplo (2.8.1)](05-(02_08_01)-ejemplo_01.ipynb)             |             |
 
