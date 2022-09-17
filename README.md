@@ -13,7 +13,7 @@ _"Cum cogitaveris quot te antecedant, respice quot sequantur"_ Séneca
 - [Información general 2022-2s](/docs/informacion_general_2022-2s.md)
 - [Temas de los exámenes 2022-2s](/docs/temas_examenes_2022-2s.md)
 - [Contenido temático](/docs/contenido_tematico.md)
-- [Código](/codigo/codigo.md)
+- [Código](/codigo/README.md)
 - [Taller 2022-2s](/docs/taller_2022-2s.md)
 - [La wiki 2022-2s](/docs/wiki_2022-2s.md)
 - [Referencias bibliográficas curso](/docs/referencias_curso.md)
