@@ -7,13 +7,13 @@ Se espera que el estudiante explore, comente, discuta los conceptos aprendidos e
 El trabajo cuenta con un componente *individual* y uno *grupal*. Los grupos serán de máximo cuatro (4) personas; estos serán conformados por los estudiantes.
 
 
-| Actividad                                                     | Fecha límite                    |
-| ---                                                           | ---                             |
-| Creación de aula de (GOOGLE CLASSROOM)[https://classroom.google.com/]                     | viernes 28 de octubre de 2022   |
-| Definición de modelo, software y grupo                        | viernes 11 de noviembre de 2022 |
-| Entrega de trabajo individual <font color='green'>+2.5</font> | Domingo 27 de noviembre de 2022 |
-| Entrega de trabajo grupal <font color='green'>+2.8</font>     | Lunes 28 de noviembre de 2022   |
-| Sustentación oral <font color='green'>+1.7</font>             | Última semana de clases         |
+| Actividad                                                             | Fecha límite                    |
+| ---                                                                   | ---                             |
+| Creación de aula de [GOOGLE CLASSROOM](https://classroom.google.com/) | viernes 28 de octubre de 2022   |
+| Definición de modelo, software y grupo                                | viernes 11 de noviembre de 2022 |
+| Entrega de trabajo individual <font color='green'>+2.5</font>         | Domingo 27 de noviembre de 2022 |
+| Entrega de trabajo grupal <font color='green'>+2.8</font>             | Lunes 28 de noviembre de 2022   |
+| Sustentación oral <font color='green'>+1.7</font>                     | Última semana de clases         |
 
 * El taller opcional será calificado hasta <font color='green'>+7.0</font> y habrá algunas *penalizaciones*.
 
