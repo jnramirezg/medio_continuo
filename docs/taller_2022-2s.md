@@ -13,8 +13,8 @@ El trabajo cuenta con un componente *individual* y uno *grupal*. Los grupos ser�
 | Definición de modelo, software y grupo                                    | viernes 11 de noviembre de 2022 a las 23:59h |
 | Entrega de trabajo individual **<font color='green'>+2.5</font>**         | Domingo 27 de noviembre de 2022 a las 23:59h |
 | Entrega de trabajo grupal **<font color='green'>+2.8</font>**             | Lunes 28 de noviembre de 2022 a las 23:59h   |
-| Sustentación oral <font color='green'>+1.7</font>                    | Última semana de clases, por citas asignadas |
-
+| Sustentación oral **<font color='green'>+1.7</font>**                    | Última semana de clases, por citas asignadas |
+<span style="font-family:Papyrus; font-size:4em;">2s!</span>
 * El taller opcional será calificado hasta **<font color='green'>+7.0</font>** y habrá algunas *penalizaciones*.
 
 * Se creará un salón en [GOOGLE CLASSROOM](https://classroom.google.com/) donde los estudiantes harán sus entregas. Los estudiantes serán añadidos a la plataforma el viernes 28 de octubre de 2022.
