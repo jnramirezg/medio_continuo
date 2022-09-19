@@ -14,7 +14,6 @@ El trabajo cuenta con un componente *individual* y uno *grupal*. Los grupos ser�
 | Definición de modelo, software y grupo                                      | viernes 11 de noviembre de 2022 a las 23:59h |
 | Entrega de trabajo individual (**<font color='green'>+2.5</font>**)         | Domingo 27 de noviembre de 2022 a las 23:59h |
 | Entrega de trabajo grupal (**<font color='green'>+2.8</font>**)             | Lunes 28 de noviembre de 2022 a las 23:59h   |
-| Sustentación oral (**<font color='green'>+1.7</font>**)                     | Última semana de clases, por citas asignadas |
 
 * El taller opcional será calificado hasta **<font color='green'>+7.0</font>** y habrá algunas *penalizaciones*.
 
@@ -84,45 +83,45 @@ Se sugiere aprender a manejar un programa de edición de videos. Esto les facili
 * NOTA MAXIMA 6.0. Tenga en cuenta que la nota tiene un componente individual (los videos) y otro grupal (el informe escrito).
 
 * **VIDEO 1**: Modelado de la estructura (30% = 1.8)
-  * 0.1 Modeló adecuadamente las condiciones de frontera
-  * 0.1 Calculó las reacciones en los apoyos
-  * 0.1 Calculó el diagrama de los desplazamientos y de la estructura deformada
-  * 0.1 Calculó los diagramas de las deformaciones ɛx, ɛy, ɛz, γxy *y* los esfuerzos σx, σy, σz, τxy (si falta alguno de estos gráficos, si se grafican sin curvas de nivel o sin escalas de colores discretas, y si no se ubican los máximos y los mínimos **no** se otorgarán puntos).
-  * 0.1 Calculó el diagrama de las rotaciones.
-  * 0.1 Calculó el diagrama de las dilataciones cúbicas.
-  * 0.2 Calculó el diagrama de esfuerzos σ1, σ2 *y* sus respectivas inclinaciones (los diagramas de σ1 y σ2 sin sus respectivas inclinaciones no otorgarán puntos)
-  * 0.1 Calculó el diagrama de esfuerzos de von Mises y/o Tresca y/o τₘₐₓ 
-  * 0.2 Usa el consejo de como hacer buenas mallas
-  * 0.7 Expone adecuadamente las capacidades del software en cuanto a la presentación de resultados (postprocesado). Se requiere para este punto que usted explore las opciones que le de el software para la presentación de resultados y gráficos: por curvas de nivel, rangos de colores, diferentes diagramas, cortes en las secciones que muestren como varían las cantidades, opciones para integrar los esfuerzos y obtener las fuerzas cortantes y los momentos flectores equivalentes, etc.
+  * **+0.1** Modeló adecuadamente las condiciones de frontera
+  * **+0.1** Calculó las reacciones en los apoyos
+  * **+0.1** Calculó el diagrama de los desplazamientos y de la estructura deformada
+  * **+0.1** Calculó los diagramas de las deformaciones ɛx, ɛy, ɛz, γxy *y* los esfuerzos σx, σy, σz, τxy (si falta alguno de estos gráficos, si se grafican sin curvas de nivel o sin escalas de colores discretas, y si no se ubican los máximos y los mínimos **no** se otorgarán puntos).
+  * **+0.1** Calculó el diagrama de las rotaciones.
+  * **+0.1** Calculó el diagrama de las dilataciones cúbicas.
+  * **+0.2** Calculó el diagrama de esfuerzos σ1, σ2 *y* sus respectivas inclinaciones (los diagramas de σ1 y σ2 sin sus respectivas inclinaciones no otorgarán puntos)
+  * **+0.1** Calculó el diagrama de esfuerzos de von Mises y/o Tresca y/o τₘₐₓ 
+  * **+0.2** Usa el consejo de como hacer buenas mallas
+  * **+0.7** Expone adecuadamente las capacidades del software en cuanto a la presentación de resultados (postprocesado). Se requiere para este punto que usted explore las opciones que le de el software para la presentación de resultados y gráficos: por curvas de nivel, rangos de colores, diferentes diagramas, cortes en las secciones que muestren como varían las cantidades, opciones para integrar los esfuerzos y obtener las fuerzas cortantes y los momentos flectores equivalentes, etc.
   NOTA: si usted usa un software que no calcula las cantidades anteriormente solicitadas, podría perder puntos. En tal caso, se sugiere cambiar de programa.
 
 * **VIDEO 2 + PDF PRESENTACION**: Reseña de las capacidades/hipótesis/suposiciones/limitaciones del software (35% = 2.1)
-  * 0.7 Hace un recuento de las teorías que soporta el programa, haciendo recortes del manual de referencia.
-  * 0.7 Intenta entender las fórmulas del manual de referencia al verificar su equivalencia con las que se vieron en clase (en ocasiones toca convertir esas ecuaciones a nuestra nomenclatura para poder entenderlas, ya que los programas son usualmente mucho más generales y soportan más casos que los vistos en clase) y/o usan una nomenclatura diferente.
-  * 0.7 Explica las ventajas/capacidades y limitaciones/suposiciones que hace el programa en cuanto al análisis estructural?
+  * **+0.7** Hace un recuento de las teorías que soporta el programa, haciendo recortes del manual de referencia.
+  * **+0.7** Intenta entender las fórmulas del manual de referencia al verificar su equivalencia con las que se vieron en clase (en ocasiones toca convertir esas ecuaciones a nuestra nomenclatura para poder entenderlas, ya que los programas son usualmente mucho más generales y soportan más casos que los vistos en clase) y/o usan una nomenclatura diferente.
+  * **+0.7** Explica las ventajas/capacidades y limitaciones/suposiciones que hace el programa en cuanto al análisis estructural?
 
 * **INFORME ESCRITO**: Análisis de resultados (35% = 2.1): interpreta gráficos, analiza como varían las cantidades en el espacio? Ubica máximos y mínimos? Relaciona gráficos entre si?
-  * 0.4 Diagramas de los desplazamientos del sólido y las deformaciones ɛx, ɛy, ɛz, γxy, dilatación cúbica, rotación. 
-  * 0.4 Diagramas de esfuerzos σx, σy, σz, τxy. 
-  * 0.2 Diagramas de esfuerzos σ1, σ2 con sus inclinaciones (si no tiene las inclinaciones θ₁ y θ₂, se tendrá un 0.0 en este punto). 
-  * 0.2 Sugiere como se podría poner el refuerzo óptimo al interior de la estructura asumiendo que esta es de concreto reforzado? (si no calculó las inclinaciones θ₁, se tendrá un 0.0 en este punto).
-  * 0.2 Sugiere la forma como la estructura se agrieta, asumiendo que esta es de concreto reforzado? (si no calculó las inclinaciones θ₂, se tendrá un 0.0 en este punto).
-  * 0.3 Diagramas de esfuerzos de von Mises, de Tresca y/o τₘₐₓ
-  * 0.4 Reacciones en los apoyos, fuerzas puntuales y momentos flectores equivalentes. Nota. Las fuerzas puntuales y los momentos flectores equivalentes en las reacciones se encuentran usando en el software una opción llamada "Integrate over surface".
+  * **+0.4** Diagramas de los desplazamientos del sólido y las deformaciones ɛx, ɛy, ɛz, γxy, dilatación cúbica, rotación. 
+  * **+0.4** Diagramas de esfuerzos σx, σy, σz, τxy. 
+  * **+0.2** Diagramas de esfuerzos σ1, σ2 con sus inclinaciones (si no tiene las inclinaciones θ₁ y θ₂, se tendrá un 0.0 en este punto). 
+  * **+0.2** Sugiere como se podría poner el refuerzo óptimo al interior de la estructura asumiendo que esta es de concreto reforzado? (si no calculó las inclinaciones θ₁, se tendrá un 0.0 en este punto).
+  * **+0.2** Sugiere la forma como la estructura se agrieta, asumiendo que esta es de concreto reforzado? (si no calculó las inclinaciones θ₂, se tendrá un 0.0 en este punto).
+  * **+0.3** Diagramas de esfuerzos de von Mises, de Tresca y/o τₘₐₓ
+  * **+0.4** Reacciones en los apoyos, fuerzas puntuales y momentos flectores equivalentes. Nota. Las fuerzas puntuales y los momentos flectores equivalentes en las reacciones se encuentran usando en el software una opción llamada "Integrate over surface".
 
-* Por mala calidad en el sonido se rebajarán 0.5 unidades. Por favor use un micrófono auxiliar (por ejemplo, un manos libres) y evite usar el micrófono del portátil para hacer el video.
+* **-0.5** Mala calidad en el sonido. Por favor use un micrófono auxiliar (por ejemplo, un manos libres) y evite usar el micrófono del portátil para hacer el video.
 
-* Si se sube un video de mala calidad (por ejemplo 720p de calidad o inferior) se rebajará 1.0 unidad. Mínimo 1080p. Recuerde que no tenemos limitación en el almacenamiento en GOOGLE CLASSROOM. En caso que su equipo no sea capaz de hacer videos con resolución 1080p, infórmelo previamente.
+* **-1.0** Mala calidad de vídeo. Mínimo 1080p. Recuerde que no tenemos limitación en el almacenamiento en GOOGLE CLASSROOM. En caso que su equipo no sea capaz de hacer videos con resolución 1080p, infórmelo previamente.
 
-* Si modela la estructura como 3D a pesar que es una de tensión/deformación plana se tendrá menos 1.0 unidad. Se debe usar necesariamente la funcionalidad de tensión/deformación plana del programa de elementos finitos.
+* **-1.0** Si modela la estructura como 3D a pesar que es una de tensión/deformación plana. Se debe usar necesariamente la funcionalidad de tensión/deformación plana del programa de elementos finitos.
 
-* Si se sube el video a YouTube, se tendrá menos 2.0 unidades. Los videos los debe subir directamente a GOOGLE CLASSROOM.
+* **-2.0** Si se sube el video a YouTube. Los videos los debe subir directamente a GOOGLE CLASSROOM.
 
-* Si se usa un software diferente al registrado, se tendrá menos 3.0 unidades.
+* **-3.0** Si se usa un software diferente al registrado.
 
-* Si se modela una estructura diferente a la registrada, se tendrá menos 3.0 unidades.
+* **-1.0** Si se modela una estructura diferente a la registrada.
 
-* Si no se incluye en el video un recuadro donde se donde se vea usted hablando sobre el software se tendrá menos 3.0 unidades. En caso de que no tenga cámara de video podría utilizar aplicaciones como [DroidCam](https://play.google.com/store/apps/details?id=com.dev47apps.droidcam) o [DroidCam OBS](https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam), con los cuales se puede utilizar su celular como cámara para el computador.
+* **-1.0** En cada vídeo si no se incluye en el video un recuadro donde se donde se vea usted hablando sobre el software. En caso de que no tenga cámara de video podría utilizar aplicaciones como [DroidCam](https://play.google.com/store/apps/details?id=com.dev47apps.droidcam) o [DroidCam OBS](https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam), con los cuales se puede utilizar su celular como cámara para el computador.
 
 
 
