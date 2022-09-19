@@ -19,7 +19,7 @@ El trabajo cuenta con un componente *individual* y uno *grupal*. Los grupos ser�
 
 * Se creará un salón en [https://classroom.google.com/](GOOGLE CLASSROOM) donde los estudiantes harán sus entregas. Los estudiantes serán añadidos a la plataforma el viernes 28 de octubre de 2022.
 
-
+\textbf{\textcolor{green}{(+7.0)}}
 # 2. Planteamiento del problema
 
 
