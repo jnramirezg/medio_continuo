@@ -69,11 +69,11 @@ Algunos ejemplos de buenos análisis, aunque claramente muy largos, son:
  
 **Calificación** **<font color='green'>+1.5</font>**, repartido así:
 
-1. **<font color='green'>+0.5</font>** Hace un recuento de las teorías que soporta el programa, haciendo recortes del manual de referencia.
+* (**<font color='green'>+0.5</font>**) Hace un recuento de las teorías que soporta el programa, haciendo recortes del manual de referencia.
     
-2. **<font color='green'>+0.5</font>** *Intenta entender* las fórmulas del manual de referencia al verificar su equivalencia con las que se vieron en clase (en ocasiones toca convertir esas ecuaciones a nuestra nomenclatura para poder entenderlas, ya que los programas son usualmente mucho más generales y soportan más casos que los vistos en clase) y/o usan una nomenclatura diferente.
+* (**<font color='green'>+0.5</font>**) *Intenta entender* las fórmulas del manual de referencia al verificar su equivalencia con las que se vieron en clase (en ocasiones toca convertir esas ecuaciones a nuestra nomenclatura para poder entenderlas, ya que los programas son usualmente mucho más generales y soportan más casos que los vistos en clase) y/o usan una nomenclatura diferente.
     
-3. **<font color='green'>+0.5</font>** Explica las ventajas (capacidades) y limitaciones (suposiciones) que hace el programa en cuanto al análisis estructural.
+* (**<font color='green'>+0.5</font>**) Explica las ventajas (capacidades) y limitaciones (suposiciones) que hace el programa en cuanto al análisis estructural.
 
 
 ## 3.2. Parte 2: modelado
