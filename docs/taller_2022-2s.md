@@ -1,4 +1,4 @@
-# Taller de aplicaciInterpretación de gráficos modelado de estructuras en tensión/deformación plana utilizando un software profesional
+# Taller de aplicación: Interpretación de gráficos modelado de estructuras en tensión/deformación plana utilizando un software profesional
 
 ## Introducción
 
@@ -12,10 +12,10 @@ El trabajo cuenta con un componente *individual* y uno *grupal*. Los grupos ser�
 | ---                                                                         | ---                             |
 | Creación de aula de [GOOGLE CLASSROOM](https://classroom.google.com/)       | viernes 28 de octubre de 2022 a las 23:59h   |
 | Definición de modelo, software y grupo                                      | viernes 11 de noviembre de 2022 a las 23:59h |
-| Entrega de trabajo individual (**<font color='green'>+2.5</font>**)         | Domingo 27 de noviembre de 2022 a las 23:59h |
-| Entrega de trabajo grupal (**<font color='green'>+2.8</font>**)             | Lunes 28 de noviembre de 2022 a las 23:59h   |
+| Entrega de trabajo individual (**<font color='green'>+3.9</font>**)         | Domingo 27 de noviembre de 2022 a las 23:59h |
+| Entrega de trabajo grupal (**<font color='green'>+2.1</font>**)             | Lunes 28 de noviembre de 2022 a las 23:59h   |
 
-* El taller opcional será calificado hasta **<font color='green'>+7.0</font>** y habrá algunas *penalizaciones*.
+* El taller opcional será calificado hasta **<font color='green'>+6.0</font>** y habrá algunas *penalizaciones*.
 
 * Se creará un salón en [GOOGLE CLASSROOM](https://classroom.google.com/) donde los estudiantes harán sus entregas. Los estudiantes serán añadidos a la plataforma el viernes 28 de octubre de 2022.
 
