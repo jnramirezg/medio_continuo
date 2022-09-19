@@ -109,6 +109,8 @@ Se sugiere aprender a manejar un programa de edición de videos. Esto les facili
   * **+0.3** Diagramas de esfuerzos de von Mises, de Tresca y/o τₘₐₓ
   * **+0.4** Reacciones en los apoyos, fuerzas puntuales y momentos flectores equivalentes. Nota. Las fuerzas puntuales y los momentos flectores equivalentes en las reacciones se encuentran usando en el software una opción llamada "Integrate over surface".
 
+### Penalizaciones
+
 * **-0.5** Mala calidad en el sonido. Por favor use un micrófono auxiliar (por ejemplo, un manos libres) y evite usar el micrófono del portátil para hacer el video.
 
 * **-1.0** Mala calidad de vídeo. Mínimo 1080p. Recuerde que no tenemos limitación en el almacenamiento en GOOGLE CLASSROOM. En caso que su equipo no sea capaz de hacer videos con resolución 1080p, infórmelo previamente.
