@@ -51,6 +51,6 @@
 Interpretación de gráficos: modelado de estructuras en tensión/deformación plana utilizando un software profesional.
 
 - Se realizará en grupos, cuya cantidad de integrantes se acordará con el docente.
-- Las condiciones del talles serán presentadas a más tardar el *viernes 17 de septiembre de 2022* mediante correo electrónico.
-- **Fecha límite de entrega:** *domingo 04 de diciembre de 2022*
+- Las condiciones del talles serán presentadas a más tardar el *lunes 19 de septiembre de 2022* en [Taller de aplicación (opcional)](/docs/taller_2022-2s.md)
+- **Fecha límite de entrega:** *domingo 27 de noviembre de 2022* (parte individual) - *lunes 28 de noviembre de 2022* (parte grupal)
 - La calificación final del taller **remplazará** la ***peor*** calificación de las tres evaluaciones parciales de 30%.
