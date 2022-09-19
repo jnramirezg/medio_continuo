@@ -14,7 +14,7 @@ El trabajo cuenta con un componente *individual* y uno *grupal*. Los grupos ser�
 | Entrega de trabajo individual **<font color='green'>+2.5</font>**         | Domingo 27 de noviembre de 2022 a las 23:59h |
 | Entrega de trabajo grupal **<font color='green'>+2.8</font>**             | Lunes 28 de noviembre de 2022 a las 23:59h   |
 | Sustentación oral **<font color='green'>+1.7</font>**                    | Última semana de clases, por citas asignadas |
-<span style="font-family:Papyrus; font-size:4em;">2s!</span>
+
 * El taller opcional será calificado hasta **<font color='green'>+7.0</font>** y habrá algunas *penalizaciones*.
 
 * Se creará un salón en [GOOGLE CLASSROOM](https://classroom.google.com/) donde los estudiantes harán sus entregas. Los estudiantes serán añadidos a la plataforma el viernes 28 de octubre de 2022.
@@ -46,40 +46,35 @@ El trabajo individual se compone de 3 partes, explicadas a continuación:
 
 ## 3.1. Parte 1: Revisión del manual del software
 
-Cada estudiante debe realizar un video tipo presentación, de manera individual, en el cual realice una reseña crítica de las capacidades teóricas y las hipótesis fundamentales que hace el programa en cuanto al análisis de estructuras en tensión o deformación plana, es decir, en cuando a la matemática interna para el cálculo de desplazamientos, esfuerzos y deformaciones. 
+Cada estudiante debe realizar un video tipo presentación, de manera individual, en el cual exponga una reseña crítica de las capacidades teóricas y las hipótesis fundamentales que hace el programa en cuanto al análisis de estructuras en tensión o deformación plana, es decir, la matemática interna para el cálculo de desplazamientos, esfuerzos y deformaciones. 
 
 Algunas aclaraciones: 
 
-\begin{enumerate}
-    \item No es mostrar como se utiliza el software, sino mirar los manuales de referencia y mostrar qué teorías, hipótesis, suposiciones, capacidades y limitaciones tiene el programa escogido y que se utilizaron para calcular la estructura. Entregar, adicionalmente, el archivo PDF utilizado en la presentación de este video. Se sugiere para la presentación tomar capturas de pantalla de los manuales de referencia del programa en cuestión. 
+1. No es mostrar como se utiliza el software, sino mirar los manuales de referencia y mostrar qué teorías, hipótesis, suposiciones, capacidades y limitaciones tiene el programa escogido y que se utilizaron para calcular la estructura. Entregar, adicionalmente, el archivo PDF utilizado en la presentación de este video. Se sugiere para la presentación tomar capturas de pantalla de los manuales de referencia del programa en cuestión. 
     
-    \item No confunda esto con la información comercial. Lo que se está solicitando está dentro de los manuales de referencia.
+2. No confunda esto con la información comercial. Lo que se está solicitando está dentro de los manuales de referencia.
     
-    \item Debe incluir una ventana pequeña en una de las esquinas donde se vea al estudiante hablando.
+3. Debe incluir una ventana pequeña en una de las esquinas donde se vea al estudiante hablando.
     
-    \item El video se debe subir a GOOGLE CLASSROOM, no a YouTube.
+4. El video se debe subir a GOOGLE CLASSROOM, no a YouTube.
     
-    \item La duración del video deberá ser de 10 minutos.   
-\end{enumerate}
+5. La duración del video deberá ser de 10 minutos.   
+
 
 Algunos ejemplos de buenos análisis, aunque claramente muy largos, son:
 
-\begin{itemize}
-    \item STRUSOFT FEM-DESIGN (análisis de losas):
-    \href{https://www.youtube.com/watch?v=xxPzgIl-mEg}{https://www.youtube.com/watch?v=xxPzgIl-mEg}
-    \item MIDAS GEN (análisis de vigas):
-    \href{https://www.youtube.com/watch?v=p06pnzg2ZPg}{https://www.youtube.com/watch?v=p06pnzg2ZPg}
-\end{itemize}
- 
-\paragraph{Calificación} \textbf{(+1.5)}, repartido así:
+* STRUSOFT FEM-DESIGN (análisis de losas): [https://www.youtube.com/watch?v=xxPzgIl-mEg](https://www.youtube.com/watch?v=xxPzgIl-mEg)
+* MIDAS GEN (análisis de vigas): [https://www.youtube.com/watch?v=p06pnzg2ZPg](https://www.youtube.com/watch?v=p06pnzg2ZPg)
 
-\begin{itemize}
-    \item \textbf{\textcolor{green}{(+0.5)}} Hace un recuento de las teorías que soporta el programa, haciendo recortes del manual de referencia.
+ 
+**Calificación** **<font color='green'>+1.5</font>**, repartido así:
+
+1. **<font color='green'>+0.5</font>** Hace un recuento de las teorías que soporta el programa, haciendo recortes del manual de referencia.
     
-    \item \textbf{\textcolor{green}{(+0.5)}} Intenta entender las fórmulas del manual de referencia al verificar su equivalencia con las que se vieron en clase (en ocasiones toca convertir esas ecuaciones a nuestra nomenclatura para poder entenderlas, ya que los programas son usualmente mucho más generales y soportan más casos que los vistos en clase) y/o usan una nomenclatura diferente.
+2. **<font color='green'>+0.5</font>** *Intenta entender* las fórmulas del manual de referencia al verificar su equivalencia con las que se vieron en clase (en ocasiones toca convertir esas ecuaciones a nuestra nomenclatura para poder entenderlas, ya que los programas son usualmente mucho más generales y soportan más casos que los vistos en clase) y/o usan una nomenclatura diferente.
     
-    \item \textbf{\textcolor{green}{(+0.5)}} Explica las ventajas/capacidades y limitaciones/suposiciones que hace el programa en cuanto al análisis estructural.
-\end{itemize}
+3. **<font color='green'>+0.5</font>** Explica las ventajas (capacidades) y limitaciones (suposiciones) que hace el programa en cuanto al análisis estructural.
+
 
 ## 3.2. Parte 2: modelado
 
