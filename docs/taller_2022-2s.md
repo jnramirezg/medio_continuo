@@ -9,7 +9,7 @@ El trabajo cuenta con un componente *individual* y uno *grupal*. Los grupos ser�
 
 | Actividad                                                     | Fecha límite                    |
 | ---                                                           | ---                             |
-| Creación de aula de [https://classroom.google.com/](GOOGLE CLASSROOM)                          | viernes 28 de octubre de 2022   |
+| Creación de aula de (GOOGLE CLASSROOM)[https://classroom.google.com/]                     | viernes 28 de octubre de 2022   |
 | Definición de modelo, software y grupo                        | viernes 11 de noviembre de 2022 |
 | Entrega de trabajo individual <font color='green'>+2.5</font> | Domingo 27 de noviembre de 2022 |
 | Entrega de trabajo grupal <font color='green'>+2.8</font>     | Lunes 28 de noviembre de 2022   |
