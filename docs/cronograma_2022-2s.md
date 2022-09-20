@@ -19,8 +19,10 @@
 
 | **Actividad evaluativa** | **%** | **Fecha**                                           |
 | ---                      | ---   | ---                                                 | 
-| Evaluación parcial 1     | 30%   | Hasta el jueves 29 de septiembre de 2022 (incluido) |
-| Evaluación parcial 2     | 30%   | Hasta el jueves 03 de noviembre de 2022 (incluido)  |
+| Evaluación parcial 1.1   | 10%   | Jueves 01 de septiembre de 2022                     |
+| Evaluación parcial 1.2   | 25%   | Jueves 29 de septiembre de 2022                     |
+| Evaluación parcial 2.1   | 10%   | Jueves 13 de octubre de 2022                     |
+| Evaluación parcial 2.2   | 35%   | Jueves 03 de noviembre de 2022                      |
 | Evaluación parcial 3     | 30%   | Hasta el martes 06 de diciembre de 2022 (incluido)  |
 | Exámenes cortos          | 10%   | Durante todo el periodo académico                   |
 
@@ -29,7 +31,8 @@
 
 - Serán sujetos de evaluación todos los temas vistos hasta la clase antes del examen, incluido los temas de estudio autónomo.
 - Los exámenes serán individuales.
-- El examen 1 será divido en dos partes. La primera parte (10%) incluirá los repasos de álgebra lineal, calculo vectorial y programación; la segunda (20%) el contenido temático visto en clase. 
+- El examen 1 será dividido en dos partes. La primera parte (10%) incluirá los repasos de álgebra lineal, calculo vectorial y programación; la segunda (15%) el contenido temático visto en clase. 
+- El examen 2 será dividido en dos partes. La primera parte (10%) evaluando la sección 2.9 (sin incluir 2.9.5 y 2.9.6) y la sección 2.10; la segunda parte (25%) el contendo temático visto en clase del corte 2.
 - Los exámenes podrán dividirse en partes previo acuerdo. En caso de no dividirse, la **fecha de presentación** es la límite de la evaluación parcial.
 - Los exámenes tendrán una duración máxima de 60 minutos con preguntas conceptuales, de demostración o con enfoque aplicado a programación. Constarán de mínimo 3 preguntas.
 - En algunos casos será posible que la calificación de una actividad sea superior a 5.0 con previa manifestación por parte del docente.
