@@ -18,4 +18,13 @@ Si quiere correr por usted mismo uno de los cuadernos, o hacer una copia para es
 |                                                                              | [09-ortogonalidad direcciones principales (2.8.4)](09-(2_8_4)_ortogonalidad_dir_pples.ipynb)|   |
 |                                                                              | [10-ejemplo circulo de Mohr 2D (2.9.4)](10-(2_9_4)-ejemplo_circulo_mohr_2d.ipynb)| [11-circulo de Mohr 2D](11-circulo_mohr_2d_interactivo.ipynb)|
 | [12-circulo de mohr 3D](12-(2_9_7)-circulo_mohr_3d.ipynb)                    |                                                                  | [13-circulo de Mohr 3D]()|
-                      
+
+Adicionalmente: 
+- [circulo_mohr_2d.py](cap_02/circulo_mohr_2d.py) que muestra el proceso de graficación del Círculo de Mohr en 2D. Recuerde que mientras el sólido gira en sentido antihorario, el círculo se construye en sentido horario entre [0, 180°):
+
+![](cap_02/mygif.gif)
+
+Otras herramientas para estudiar el círculo de Mohr:
+- Plantilla de Geogebra de los videos: <https://www.geogebra.org/m/a8nv6zud>
+- <https://github.com/nicoguaro/notebooks_examples/blob/master/Mohr_circle.ipynb>
+- <https://github.com/ProfessorKazarinoff/mohrs_circle>
