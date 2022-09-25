@@ -8,7 +8,7 @@ Si quiere correr por usted mismo uno de los cuadernos, o hacer una copia para es
 
 ## 02. Estudio de los esfuerzos en un punto
 
-| Demostraciones                                                               | Ejemplos                                                         | interactivos |
+| Demostraciones                                                               | Ejemplos                                                         | interactivos|
 | ---                                                                          | ---                                                              | ---         |
 | [01-cambio de base tridimensional (2.6.1)](01-(2_6_1)-cambio_base_tri.ipynb) |                                                                  |             |                                            
 | [02-cambio de base bidimensional (2.6.2)](02-(2_6_2)-cambio_base_bi.ipynb)   | [03-problema Flamant (2.6.2)](03-(2_6_2)-problema_flamant.ipynb) |             |
@@ -20,11 +20,16 @@ Si quiere correr por usted mismo uno de los cuadernos, o hacer una copia para es
 | [12-circulo de mohr 3D](12-(2_9_7)-circulo_mohr_3d.ipynb)                    |                                                                  | [13-circulo de Mohr 3D]()|
 
 Adicionalmente: 
-- [circulo_mohr_2d.py](https://github.com/jnramirezg/mecanica_de_solidos_un/blob/main/codigos/cap_02/circulo_mohr_2d.py) que muestra el proceso de graficación del Círculo de Mohr en 2D. Recuerde que mientras el sólido gira en sentido antihorario, el círculo se construye en sentido horario entre [0, 180°):
+- [circulo_mohr_2d.py](https://github.com/jnramirezg/mecanica_de_solidos_un/blob/main/codigos/cap_02/circulo_mohr_2d.py) ([ver gráfico](https://github.com/jnramirezg/mecanica_de_solidos_un/blob/main/codigos/cap_02/mygif.gif)) que muestra el proceso de graficación del Círculo de Mohr en 2D. Recuerde que mientras el sólido gira en sentido antihorario, el círculo se construye en sentido horario entre [0, 180°):
 
-![](https://github.com/jnramirezg/mecanica_de_solidos_un/blob/main/codigos/cap_02/mygif.gif)
+
 
 Otras herramientas para estudiar el círculo de Mohr:
 - Plantilla de Geogebra de los videos: <https://www.geogebra.org/m/a8nv6zud>
 - <https://github.com/nicoguaro/notebooks_examples/blob/master/Mohr_circle.ipynb>
 - <https://github.com/ProfessorKazarinoff/mohrs_circle>
+
+## 03. Estudio de los desplazamientos y las deformaciones en un punto
+
+| Demostraciones    | Ejemplos |
+| ---               | ---      |
