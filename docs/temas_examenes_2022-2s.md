@@ -43,10 +43,7 @@ Tener en cuenta las [condiciones generales](/docs/cronograma_2022-2s.md#sobre-la
 
 **Nota 1:** *NO* se evaluarán los comandos y programas en otros lenguajes de programación (MAXIMA y matlab) que están en el libro.
 	
-**Nota 2:** El programa [11](/codigo/11-circulo_mohr_2d_interactivo.ipynb) es una herramienta últil para ver del círculo de Mohr. Adicionalmente: - [circulo_mohr_2d.py](https://github.com/jnramirezg/mecanica_de_solidos_un/blob/main/codigos/cap_02/circulo_mohr_2d.py) ([ver gráfico](https://github.com/jnramirezg/mecanica_de_solidos_un/blob/main/codigos/cap_02/mygif.gif)) que muestra el proceso de graficación del Círculo de Mohr en 2D. Recuerde que mientras el sólido gira en sentido antihorario, el círculo se construye en sentido horario entre [0, 180°):
-
-
-Otras herramientas para estudiar el círculo de Mohr:
+**Nota 2:** El programa [11](/codigo/11-circulo_mohr_2d_interactivo.ipynb) es una herramienta últil para ver del círculo de Mohr. Adicionalmente: [circulo_mohr_2d.py](https://github.com/jnramirezg/mecanica_de_solidos_un/blob/main/codigos/cap_02/circulo_mohr_2d.py) ([ver gráfico](https://github.com/jnramirezg/mecanica_de_solidos_un/blob/main/codigos/cap_02/mygif.gif)) que muestra el proceso de graficación del Círculo de Mohr en 2D. Recuerde que mientras el sólido gira en sentido antihorario, el círculo se construye en sentido horario entre [0, 180°). Otras herramientas para estudiar el círculo de Mohr:
 - Plantilla de Geogebra de los videos: <https://www.geogebra.org/m/a8nv6zud>
 - <https://github.com/nicoguaro/notebooks_examples/blob/master/Mohr_circle.ipynb>
 - <https://github.com/ProfessorKazarinoff/mohrs_circle>
