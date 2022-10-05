@@ -48,4 +48,5 @@ Otras herramientas para estudiar el círculo de Mohr:
 |[20-ley de hooke generalizada en ortótropos](20-(4_3_5)-ley_hooke_ortotropos.ipynb)|                                                                                     |
 |	                                                                              |[21-ejemplo dir. pples. deformación plana](21-(4_8_3)-ejemplo_DP.ipynb)              |
 |	                                                                              |[22-ejemplo dir. pples. tensión plana](22-(4_8_3)-ejemplo_TP.ipynb)                  |
-|[23-integrales vigas](23-(4_9_4)_integrales.ipynb)	                              |[24-gráficos de colores de esfuerzos y deformaciones](24-(4_9_6)-graficos_viga.ipynb)|                        
+|[23-integrales vigas](23-(4_9_4)_integrales.ipynb)	                              |[24-gráficos de colores de esfuerzos y deformaciones](24-(4_9_6)-graficos_viga.ipynb)|
+|[25-ejemplo (4.10.3)]()                      
