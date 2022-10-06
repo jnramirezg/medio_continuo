@@ -34,7 +34,7 @@ Otras herramientas para estudiar el círculo de Mohr:
 | Demostraciones                                                     | Ejemplos                                                               |
 | ---                                                                | ---                                                                    |
 |[14-deformaciones otras dir. 2D v1](14-(3_4)-def_otras_dir(1).ipynb)|                                                                        |
-|[15-deformaciones otras dir. 2D v2](15-(3_4)-def_otras_dir(2).ipynb)| [16-ejemplo cambio de base 2d](16-(3_4_2)-ejemplo_cambio_base.ipynb)   |
+|[15-deformaciones otras dir. 2D v2](15-(3_4)-def_otras_dir(2).ipynb)| [16-ejemplo cambio de base](16-(3_4_2)-ejemplo_cambio_base.ipynb)   |
 |                                                                    | [17-ejemplo más de tres galgas](17-(3_4_3)_ejemplo_varias_galgas.ipynb)|
 
 
