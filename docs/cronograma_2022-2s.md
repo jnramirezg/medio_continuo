@@ -5,7 +5,7 @@
 | ---                       | ---                                                             |
 | **Semana universitaria:** | lunes 19 de septiembre de 2022– sábado 24 de septiembre de 2022 |
 | **Fin:**                  | martes 06 de diciembre de 2022                                  |
-| **Notas SIA:**           | hasta las 5PM del sábado 10 de diciembre de 2022                |
+| **Notas SIA:**            | hasta las 5PM del sábado 10 de diciembre de 2022                |
 
 <sub>[Res. 921 de 2021 de Rectoría](http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=99433)</sub>
 
@@ -19,11 +19,11 @@
 
 | **Actividad evaluativa** | **%** | **Fecha**                                           |
 | ---                      | ---   | ---                                                 | 
-| Evaluación parcial 1.1   | 10%   | Jueves 01 de septiembre de 2022                     |
-| Evaluación parcial 1.2   | 25%   | Jueves 29 de septiembre de 2022                     |
-| Evaluación parcial 2.1   | 10%   | Jueves 13 de octubre de 2022                     |
-| Evaluación parcial 2.2   | 35%   | Jueves 03 de noviembre de 2022                      |
-| Evaluación parcial 3     | 30%   | Hasta el martes 06 de diciembre de 2022 (incluido)  |
+| Evaluación parcial 1     | 10%   | Jueves 01 de septiembre de 2022                     |
+| Evaluación parcial 2     | 15%   | Jueves 29 de septiembre de 2022                     |
+| Evaluación parcial 3     | 10%   | Martes 18 de octubre de 2022                        |
+| Evaluación parcial 4     | 25%   | Jueves 03 de noviembre de 2022                      |
+| Evaluación parcial 5     | 30%   | Hasta el martes 06 de diciembre de 2022 (incluido)  |
 | Exámenes cortos          | 10%   | Durante todo el periodo académico                   |
 
 
