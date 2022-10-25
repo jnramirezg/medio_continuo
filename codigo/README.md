@@ -37,16 +37,15 @@ Otras herramientas para estudiar el círculo de Mohr:
 |[15-deformaciones otras dir. 2D v2](15-(3_4)-def_otras_dir(2).ipynb)| [16-ejemplo cambio de base](16-(3_4_2)-ejemplo_cambio_base.ipynb)   |
 |                                                                    | [17-ejemplo más de tres galgas](17-(3_4_3)_ejemplo_varias_galgas.ipynb)|
 
-
-
 ## 04. Relaciones entre los esfuerzos y las deformaciones
 
-| Demostraciones                                                                    | Ejemplos                                                             			  |
-| ---                                                                               | ---                                                                   	        |
-|[18-módulo de cortante G](18-(4_3_2)-modulo_cortante.ipynb)                        |                                                                        		  |
-|[19-ley de hooke generalizada en isótropos](19-(4_3_3)-ley_hooke_isotropos.ipynb)  |                     				                            			  |
-|[20-ley de hooke generalizada en ortótropos](20-(4_3_5)-ley_hooke_ortotropos.ipynb)|                                                                                     |
-|	                                                                              |[21-ejemplo dir. pples. deformación plana](21-(4_8_3)-ejemplo_DP.ipynb)              |
-|	                                                                              |[22-ejemplo dir. pples. tensión plana](22-(4_8_3)-ejemplo_TP.ipynb)                  |
-|[23-integrales vigas](23-(4_9_4)_integrales.ipynb)	                              |[24-gráficos de colores de esfuerzos y deformaciones](24-(4_9_6)-graficos_viga.ipynb)|
-|[25-ejemplo (4.10.3)]()                      
+| Demostraciones                                                                     | Ejemplos                                                             	         |
+| ---                                                                                | ---                                                                   	         |
+|[18-módulo de cortante G](18-(4_3_2)-modulo_cortante.ipynb)                         |                                                                        	  	 |
+|[19-ley de hooke generalizada en isótropos](19-(4_3_3)-ley_hooke_isotropos.ipynb)   |                     				                            		 	   |
+|[21-ley de hooke generalizada en ortótropos](21-(4_3_5)-ley_hooke_ortotropos.ipynb) |                                                                                     |
+|[22-Particularización de ortótropos a isotrópos](22-de_ortotropos_a_isotropos.ipynb)|                                                                                     |
+|	                                                                                 |[23-ejemplo dir. pples. deformación plana](23-(4_8_3)-ejemplo_DP.ipynb)              |
+|	                                                                               |[24-ejemplo dir. pples. tensión plana](24-(4_8_3)-ejemplo_TP.ipynb)                  |
+|[25-integrales vigas](25-(4_9_4)_integrales.ipynb)	                                |[26-gráficos de colores de esfuerzos y deformaciones](26-(4_9_6)-graficos_viga.ipynb)|
+|[27-ejemplo (4.10.3)]()                      | |           
