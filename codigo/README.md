@@ -42,10 +42,11 @@ Otras herramientas para estudiar el círculo de Mohr:
 | Demostraciones                                                                     | Ejemplos                                                             	         |
 | ---                                                                                | ---                                                                   	         |
 |[18-módulo de cortante G](18-(4_3_2)-modulo_cortante.ipynb)                         |                                                                        	  	 |
-|[19-ley de hooke generalizada en isótropos](19-(4_3_3)-ley_hooke_isotropos.ipynb)   |                     				                            		 	   |
+|[19-ley de hooke generalizada en isótropos (v1)](19-(4_3_3)-ley_hooke_isotropos.ipynb)   |                     				                            		 	   |
+|[20-ley de hooke generalizada en isótropos (v2)](20-(4_3_3)-alter-ley_hooke_isotropos.ipynb)   |                     				                            		 	   |
 |[21-ley de hooke generalizada en ortótropos](21-(4_3_5)-ley_hooke_ortotropos.ipynb) |                                                                                     |
 |[22-Particularización de ortótropos a isotrópos](22-de_ortotropos_a_isotropos.ipynb)|                                                                                     |
 |	                                                                                 |[23-ejemplo dir. pples. deformación plana](23-(4_8_3)-ejemplo_DP.ipynb)              |
 |	                                                                               |[24-ejemplo dir. pples. tensión plana](24-(4_8_3)-ejemplo_TP.ipynb)                  |
 |[25-integrales vigas](25-(4_9_4)_integrales.ipynb)	                                |[26-gráficos de colores de esfuerzos y deformaciones](26-(4_9_6)-graficos_viga.ipynb)|
-|[27-ejemplo (4.10.3)]()                      | |           
+|[27-ejemplo (4.10.3)]()                      | |
