@@ -34,7 +34,7 @@ Tener en cuenta las [condiciones generales](/docs/cronograma_2022-2s.md#sobre-la
 
 **Nota 2:** El programa [06](/codigo/06-esf_dir_pples_interactivo.ipynb) es una herramienta últil para ver el significado de los esfuerzos principales y las direcciones principales.
 
-# Examen 3 (10%): martes 18 de octubre de 2022
+# Examen 3 (10%): martes 18 de octubre de 2022 [Solución](/docs/SOL-examen_3-2022-2s.pdf)
 Tener en cuenta las [condiciones generales](/docs/cronograma_2022-2s.md#sobre-la-evaluación).
 
 - Del capítulo 2 del main.pdf, las secciones 2.9 (sin incluir 2.9.5 y 2.9.6) y 2.10.
@@ -47,5 +47,3 @@ Tener en cuenta las [condiciones generales](/docs/cronograma_2022-2s.md#sobre-la
 - Plantilla de Geogebra de los videos: <https://www.geogebra.org/m/a8nv6zud>
 - <https://github.com/nicoguaro/notebooks_examples/blob/master/Mohr_circle.ipynb>
 - <https://github.com/ProfessorKazarinoff/mohrs_circle>
-
-
