@@ -48,10 +48,10 @@ Tener en cuenta las [condiciones generales](/docs/cronograma_2022-2s.md#sobre-la
 - <https://github.com/nicoguaro/notebooks_examples/blob/master/Mohr_circle.ipynb>
 - <https://github.com/ProfessorKazarinoff/mohrs_circle>
 
-# Examen 4 (25%): jueves 03 de noviembre de 2022
+# Examen 4 (25%): jueves 03 de noviembre de 2022 [(Solución)](/docs/SOL-examen_4-2022-2s.pdf)
 Tener en cuenta las [condiciones generales](/docs/cronograma_2022-2s.md#sobre-la-evaluación).
 
 - Del capítulo 3 del main.pdf, todas las secciones.
 - Del capítulo 4 del main.pdf, las secciones 4.1, 4.2 y 4.3
 - Los ejercicios propuestos y las preguntas de control de lectura de los capítulos 3 y 4 (solo los relacionados con las secciones 4.1, 4.2 y 4.3).
-- Todos los comandos de los programas [14](/codigo/14-(3_4)-def_otras_dir(1).ipynb), [15](/codigo/15-(3_4)-def_otras_dir(2).ipynb), [16](/codigo/16-(3_4_2)-ejemplo_cambio_base.ipynb), [17](/codigo/17-(3_4_3)_ejemplo_varias_galgas.ipynb), [18](/codigo/18-(4_3_2)-modulo_cortante.ipynb), [19](/codigo/19-(4_3_3)-ley_hooke_isotropos.ipynb), [20](/codigo/20-(4_3_3)-alter-ley_hooke_isotropos.ipynb), [21](/codigo/21-(4_3_5)-ley_hooke_ortotropos.ipynb), [22](/codigo/22-de_ortotropos_a_isotropos.ipynb).
+- Todos los comandos de los programas [14](/codigo/14-(3_4)-def_otras_dir(1).ipynb), [15](/codigo/15-(3_4)-def_otras_dir(2).ipynb), [16](/codigo/16-(3_4_2)-ejemplo_cambio_base.ipynb), [17](/codigo/17-(3_4_3)_ejemplo_varias_galgas.ipynb), [18](/codigo/18-(4_3_2)-modulo_cortante.ipynb), [19](/codigo/19-(4_3_3)-ley_hooke_isotropos.ipynb), [20](/codigo/20-(4_3_3)-alter-ley_hooke_isotropos.ipynb), [21](/codigo/21-(4_3_5)-ley_hooke_ortotropos.ipynb) y [22](/codigo/22-de_ortotropos_a_isotropos.ipynb).
