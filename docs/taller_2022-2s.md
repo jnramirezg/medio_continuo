@@ -36,7 +36,7 @@ Absolutamente todos los estudiantes del salón deberán usar un software diferen
 
 Una vez los estudiantes sean añadidos al salón de GOOGLE CLASSROOM, y la información sea publicada, podrán comenzar a registrar el software a utilizar. Si registran un software se asume que harán el trabajo, así que sean consientes de que si registran un software pero luego no hacen nada, le están quitando la oportunidad a alguien más de emplear dicho programa.
 
-Habrá plazo hasta el **viernes 11 de noviembre de 2022 a las 11:59 p.m.** para que los estudiantes concreten el software a emplear y su modelo de estudio, y para la conformación de los grupos. Luego de esta fecha, no se aceptarán modificaciones.
+Habrá plazo hasta el **domingo 13 de noviembre de 2022 a las 11:59 p.m.** para que los estudiantes concreten el software a emplear y su modelo de estudio, y para la conformación de los grupos. Luego de esta fecha, no se aceptarán modificaciones.
 
 ## Se solicita
 * Explicar detalladamente como se modelaron las condiciones de frontera (condiciones de apoyo, cargas).
