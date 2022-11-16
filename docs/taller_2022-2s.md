@@ -108,6 +108,7 @@ NOTA MAXIMA 6.0. Tenga en cuenta que la nota tiene un componente individual (los
   * **+0.2** Sugiere la forma como la estructura se agrieta, asumiendo que esta es de concreto reforzado? (si no calculó las inclinaciones θ₂, se tendrá un 0.0 en este punto).
   * **+0.3** Diagramas de esfuerzos de von Mises, de Tresca y/o τₘₐₓ
   * **+0.4** Reacciones en los apoyos, fuerzas puntuales y momentos flectores equivalentes. Nota. Las fuerzas puntuales y los momentos flectores equivalentes en las reacciones se encuentran usando en el software una opción llamada "Integrate over surface".
+  * **+0.5** Si realizan el informe en LaTex.
 
 ### Penalizaciones
 
