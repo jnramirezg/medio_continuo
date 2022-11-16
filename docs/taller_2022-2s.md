@@ -80,7 +80,7 @@ Se sugiere aprender a manejar un programa de edición de videos. Esto les facili
 * En caso que requiera un programa de elementos finitos, la siguiente lista puede ser útil: http://feacompare.com/ Tenga en cuenta que muchos programas pagos tienen versiones de prueba que pueden ser de utilidad para el presente taller.
 
 ## Criterios de evaluación
-* NOTA MAXIMA 6.0. Tenga en cuenta que la nota tiene un componente individual (los videos) y otro grupal (el informe escrito).
+NOTA MAXIMA 6.0. Tenga en cuenta que la nota tiene un componente individual (los videos) y otro grupal (el informe escrito).
 
 * **VIDEO 1**: Modelado de la estructura (30% = 1.8)
   * **+0.1** Modeló adecuadamente las condiciones de frontera
@@ -100,7 +100,7 @@ Se sugiere aprender a manejar un programa de edición de videos. Esto les facili
   * **+0.7** Intenta entender las fórmulas del manual de referencia al verificar su equivalencia con las que se vieron en clase (en ocasiones toca convertir esas ecuaciones a nuestra nomenclatura para poder entenderlas, ya que los programas son usualmente mucho más generales y soportan más casos que los vistos en clase) y/o usan una nomenclatura diferente.
   * **+0.7** Explica las ventajas/capacidades y limitaciones/suposiciones que hace el programa en cuanto al análisis estructural?
 
-* **INFORME ESCRITO**: Análisis de resultados (35% = 2.1): interpreta gráficos, analiza como varían las cantidades en el espacio? Ubica máximos y mínimos? Relaciona gráficos entre si?
+* **INFORME ESCRITO**: Análisis de resultados (35% = 2.1): ¿interpreta gráficos? ¿Analiza como varían las cantidades en el espacio? ¿Ubica máximos y mínimos? ¿Relaciona gráficos entre sí?
   * **+0.4** Diagramas de los desplazamientos del sólido y las deformaciones ɛx, ɛy, ɛz, γxy, dilatación cúbica, rotación. 
   * **+0.4** Diagramas de esfuerzos σx, σy, σz, τxy. 
   * **+0.2** Diagramas de esfuerzos σ1, σ2 con sus inclinaciones (si no tiene las inclinaciones θ₁ y θ₂, se tendrá un 0.0 en este punto). 
