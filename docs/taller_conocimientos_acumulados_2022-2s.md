@@ -92,7 +92,7 @@ Para cada gráfico:
 Para cada gráfico:
 - Hacer un esquema donde se señalen los puntos característicos (máximos, mínimos, valores nulos).
 - De acuerdo con la ecuación de cada gráfico ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico?
-- ¿Cuál es la interpretación física de $\sigma_1$, $\theta_1$, $\sigma_2$, $\theta_2$ y $\tau_{máx}$.
+- ¿Cuál es la interpretación física de $\sigma_1$, $\theta_1$, $\sigma_2$, $\theta_2$ y $\tau_{máx}$?
 17. **Alternativa de diseño (esquemático):**
 18. **Diseño convencional (esquemático):**
 19. **Conclusiones:**
