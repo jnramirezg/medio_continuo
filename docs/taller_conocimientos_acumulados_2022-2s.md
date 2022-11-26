@@ -2,6 +2,11 @@
 
 Con este taller se pretende evaluar los conocimientos adquiridos de las secciones 4.4, 4.5, 4.6, 4.7, 4.8, 4.9, 4.10, 9.1, 9.2, 9.3, 9.4, 9.5, 9.6, 9.7, 9.8, 9.9 y 9.10 del main.pdf. A partir de una aplicación de la teoría de Euler-Bernoulli se busca reforzar los conocimiento previos a mecánica de sólidos y todos adquiridos hasta el momento en la asignatura.
 
+## Objetivos de aprendizaje
+
+- Afianzar los conocimientos y su relación con la ingeniería civil en cálculo diferencial, cálculo integral, cálculo vectorial, álgebra lineal, ecuaciones diferenciales, física mecánica, geometría euclidiana, estática, análisis estructural básico, mecánica tensorial y programación de computadores aplicados a la ingeniería civil.
+- Preparar al estudiante para cursos de métodos numéricos aplicados a la ingeniería civil, apliaciones de elementos finitos, diseño de concreto reforzado básico, diseño de concreto reforzado avanzado, análisis estructural avanzado, cimentaciones, geotecnia y pavimentos.
+
 ## Condiciones generales
 
 - Calificación máxima 6.0.
