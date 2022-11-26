@@ -18,20 +18,22 @@ Con este taller se pretende evaluar los conocimientos adquiridos de las seccione
 - El taller está disponible a partir de las 00:00h del 26 de noviembre de 2022.
 - Fecha límite de entrega: martes 06 de diciembre de 2022 a las 23:59h.
 - Se solicita que todos los cálculos sean detallados, que no estén fuera de contexto. Cada paso debe ir acompañado de un texto que soporte por qué se hacen las cosas.
-- La parte procedimental y las respuestas se pueden presentar a mano (en hoja blanca) o hechas en computador siempre y cuando sean presentadas las ecuaciones con la notación real.
+- La parte procedimental y las respuestas se pueden presentar a mano (en **hojas blancas**) o hechas en computador siempre y cuando sean presentadas las ecuaciones con la notación real.
 
 ## Estructura principal del taller
-Los pasos del 1 al 6 deberán realizarse con todas las variables simbólicas (no se puede remplazar ninguna variable). En los procedimientos se pueden hacer usando cualquier herramienta adicional, pero en el trabajo deberá quedar consignado el paso a paso con su respectiva explicación.
+Los pasos del 1 al 6 deberán realizarse con todas las variables simbólicas (no se puede remplazar ninguna variable). En los procedimientos se pueden hacer usando cualquier herramienta adicional, pero en el trabajo deberá quedar consignado el paso a paso con su respectiva explicación. 
 
 ### A. Análisis
 Dada una viga con sección transversal constante, se deben hacer dos análisis:
 - Con módulo de elasticidad costante para toda la viga, $E$, realizando todos los cálculos, análisis y gráficas en términos de las variables simbólicas.
-- Con módulo de elasticidad variable de forma lineal realizando todos los cálculos, análisis y gráficas en términos de las variables simbólicas. Suponer que la viga tiene un módulo de elasticidad $E_1$ a la izquieda y $E_2$ a la derecha (variación lineal). Tener en cuenta que $E_1 < E_2$
+- Con módulo de elasticidad variable de forma lineal realizando todos los cálculos, análisis y gráficas en términos de las variables simbólicas. Suponer que la viga tiene un módulo de elasticidad $E_1$ a la izquieda y $E_2$ a la derecha (variación lineal). Tener en cuenta que $E_1 < E_2$.
+
+**Nota:** Hay ejercicios con vigas hiperestáticas, entonces para poder hallar sus reacciones se requiere dejar como incógnitas las reacciones en los apoyos y posteriormemte, despejarlos con las ecuaciones adiciones que ofrecen las rotaciones y las deflexiones.
+
 1. **Cálculo de reacciones:**
-- Cálcular las ecuaciones de todas las reacciones en los apoyos de la viga (mostrar procedimiento y diagramas de cuerpo libre).
+- Calcular las ecuaciones de todas las reacciones en los apoyos de la viga (mostrar procedimiento y diagramas de cuerpo libre).
 2. **Determinación de condiciones de frontera:**
-- Definir cuáles son las condiciones de frontera de la ecuación diferencial.
-- En las vigas que son descritas con funciones a trozos se debe considerar que $\theta(x)$ por la izquierda es igual $\theta(x)$ por la derecha para un mismo punto.
+- Definir cuáles son las condiciones de frontera de la ecuación diferencial. Esto debe ser esquematizado o dibujado, es decir, debe mostrar qué significa cada condición de frontera. En las vigas que son descritas con funciones a trozos se debe considerar que $\theta(x)$ por la izquierda es igual $\theta(x)$ por la derecha para un mismo punto, así como, $v(x)$ por la izquierda es igual $v(x)$ por la derecha. Y debido a que no hay momentos aplicados, lo mismo ocurre para $M(x)$.
 3. **Cálculo y análisis de la gráfica de cortantes:**
 - Hallar la(s) ecuacion(es) que describen $V(x)$.
 - Determinar los $V(x)$ máximos y mínimos y sus posiciones $x$.
@@ -147,3 +149,4 @@ Los archivos deberán ser subidos al classroom de forma independiente (no compri
 - Todo trabajo enviado después de la hora límite recibirá una penalización de **[-0.5]** por cada hora de retraso.
 - Si el modelo que analiza y utiliza es diferente al asignado, la calificación será **0.0.**
 - **[-1.5]** si presenta el trabajo en hojas que no sean completamente blancas, pues esto dificulta muchísimo la calificación.
+- Cualquier ecuación presentada sin contexto no será tenida en cuenta en la calificación.
