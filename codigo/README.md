@@ -48,5 +48,6 @@ Otras herramientas para estudiar el círculo de Mohr:
 |[22-Particularización de ortótropos a isotrópos](22-de_ortotropos_a_isotropos.ipynb)|                                                                                     |
 |	                                                                                 |[23-ejemplo dir. pples. deformación plana](23-(4_8_3)-ejemplo_DP.ipynb)              |
 |	                                                                               |[24-ejemplo dir. pples. tensión plana](24-(4_8_3)-ejemplo_TP.ipynb)                  |
-|[25-integrales vigas](25-(4_9_4)_integrales.ipynb)	                                |[26-gráficos de colores de esfuerzos y deformaciones](26-(4_9_6)-graficos_viga.ipynb)|
-|[27-ejemplo (4.10.3)]()                      | |
+|[25-Integrales vigas](25-(4_9_4)_integrales.ipynb)	                                |[26-gráficos de colores de esfuerzos y deformaciones](26-(4_9_6)-graficos_viga.ipynb)|
+|[27-Diseño esquemático de concreto](27-diseno_concreto_reforzado.ipynb)                      | |
+|[28-ejemplo (4.10.3)]() ||
