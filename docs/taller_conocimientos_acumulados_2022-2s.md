@@ -108,7 +108,7 @@ Con los valores reemplazados, usando la librería matplotlib de Python:
 - Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\varepsilon_y$ y $\varepsilon_z$.
 - De acuerdo con la ecuación de $\varepsilon_y$ y $\varepsilon_z$ ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico? ¿Por qué los gráficos de $\varepsilon_y$ y $\varepsilon_z$ son similares?
 - Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\gamma_{xy}$.
-- De acuerdo con la ecuación de $\varepsilon_y$ ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico?
+- De acuerdo con la ecuación de $\gamma_{xy}$ ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico?
 - Interpretar a partir del concepto físico de deformaciones los puntos característicos de $\gamma_{xy}$.
 
 16. **Análisis de las gráficas de esfuerzos y direcciones principales, y $tau_{máx}$**
