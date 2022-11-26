@@ -77,7 +77,7 @@ Los pasos del 7 al 16 se realizan adaptando el programa [27- Diseño de concreto
 8. **Revisión de hipótesis fundamentales:**
 - Se debe hacer un análisis del cumplimiento de las hipótesis fundamentales de la teoría EB.
 9. **Propiedades:**
-- Establecer las propiedades geométricas y elásticas del material.
+- Establecer las propiedades geométricas de la viga y las propiedades elásticas del material.
 10. **Gráficas de cortantes, momentos, rotaciones y deflexiones:**
 Con los valores reemplazados, usando la librería matplotlib de Python:
 - Graficar $V(x)$.
