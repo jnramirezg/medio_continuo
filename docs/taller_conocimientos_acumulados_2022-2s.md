@@ -102,10 +102,10 @@ Se deben escribir varias conclusiones generales de la interpretación de los gr�
 - ¿Por qué no es importante el signo positivo o negativo de una fuerza cortante o de un esfuerzo cortante?.
 - ¿Por qué es importante diferenciar momentos flectores positivos y negativos?
 - ¿Por qué el diagrama de momentos $M(x)$ se dibuja invertido? ¿Qué representa?
-- ¿Qué relación tiene $M(x)$ con $\sigma_1$ y sus direcciones $\theta_1?
-- ¿Qué relación tiene $M(x)$ con $\sigma_2$ y sus direcciones $\theta_2?
-- ¿Qué relación tiene $V(x)$ con $\sigma_1$ y sus direcciones $\theta_1?
-- ¿Qué relación tiene $V(x)$ con $\sigma_2$ y sus direcciones $\theta_2?
+- ¿Qué relación tiene $M(x)$ con $\sigma_1$ y sus direcciones $\theta_1$?
+- ¿Qué relación tiene $M(x)$ con $\sigma_2$ y sus direcciones $\theta_2$?
+- ¿Qué relación tiene $V(x)$ con $\sigma_1$ y sus direcciones $\theta_1$?
+- ¿Qué relación tiene $V(x)$ con $\sigma_2$ y sus direcciones $\theta_2$?
 
 ## Archivos requeridos
 Los archivos deberán ser subidos al classroom de forma independiente (no comprimidos). No se aceptan trabajos por ningún otro medio.
