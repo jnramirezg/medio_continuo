@@ -21,7 +21,7 @@ Con este taller se pretende evaluar los conocimientos adquiridos de las seccione
 - La parte procedimental y las respuestas se pueden presentar a mano (en **hojas blancas**) o hechas en computador siempre y cuando sean presentadas las ecuaciones con la notación real.
 
 ## Estructura principal del taller
-Los pasos del 1 al 6 deberán realizarse con todas las variables simbólicas (no se puede remplazar ninguna variable). En los procedimientos se pueden hacer usando cualquier herramienta adicional, pero en el trabajo deberá quedar consignado el paso a paso con su respectiva explicación. 
+Los pasos del 1 al 6 deberán realizarse con todas las variables simbólicas (no se puede remplazar ninguna variable). Los procedimientos se pueden hacer usando cualquier herramienta adicional, pero en el trabajo deberá quedar consignado el paso a paso con su respectiva explicación. 
 
 ### A. Análisis
 Dada una viga con sección transversal constante, se deben hacer dos análisis:
