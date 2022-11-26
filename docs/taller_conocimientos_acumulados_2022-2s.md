@@ -15,19 +15,23 @@ Con este taller se pretende evaluar los conocimientos adquiridos de las seccione
 - La parte procedimental y las respuestas se pueden presentar a mano (en hoja blanca) o hechas en computador siempre y cuando sean presentadas las ecuaciones con la notación real.
 
 ## Estructura principal del taller
-Los pasos del 1 al 6 deberán realizarse con todas las variables simbólicas (no se puede remplazar ninguna variable). Los procedimientos se pueden hacer usando cualquier herramienta adicional, pero en el trabajo deberá quedar consignado el paso a paso con su respectiva explicación.
+Los pasos del 1 al 6 deberán realizarse con todas las variables simbólicas (no se puede remplazar ninguna variable). En los procedimientos se pueden hacer usando cualquier herramienta adicional, pero en el trabajo deberá quedar consignado el paso a paso con su respectiva explicación.
 
 ### A. Análisis
 Dada una viga de concreto reforzado, se deben hacer dos análisis:
 - Con módulo de elasticidad costante para toda la viga, $E$, realizando todos los cálculos, análisis y gráficas.
 - Con módulo de elasticidad variable de forma lineal realizando todos los cálculos, análisis y gráficas en términos de las variables simbólicas. Suponer que la viga tiene un módulo de elasticidad $E_1$ a la izquieda y $E_2$ a la derecha (variación lineal).
-1. **Cálculo de reacciones:*
+1. **Cálculo de reacciones:**
+
 2. **Determinación de condiciones de frontera:**
+- Definir cuáles son las condiciones de frontera de la ecuación diferencial.
+- En las vigas que son descritas con funciones a trozos se deben condierar que $\theta(x)$
 3. **Cálculo y análisis de la gráfica de cortantes:**
 4. **Cálculo y análisis de la gráfica de momentos:**
 5. **Cálculo y análisis de la gráfica de giros:**
 6. **Cálculo y análisis de la gráfica de deflexiones:**
-
+- Hallar la ecuación de la deflexión máxima $v_{máx}$ en cada luz y su posición $x$.
+- ¿Cuál es la mayor?
 ### B. Diseño
 Las vigas tienen los siguientes parámetros:
 - $L_1=6m$
@@ -42,29 +46,30 @@ Las vigas tienen los siguientes parámetros:
 - $q_2=-40kN/m$
 - $q_3=-20kN/m$
 - $f'c=21MPa$
-**7. Dimensionamiento de la viga:**
+7. **Dimensionamiento de la viga:**
 - Se debe "diseñar" las dimensiones de la viga, de tal forma que $b$ y $h$ sean suficientes evitar que la deflexión máxima de la viga sea mayor que $luz_libre/360$ (exigido por los códigos de construcción). Nota: Recuerde que la luz libre es la distancia entre dos apoyos, es decir, hay vigas con varios apoyos; por lo tanto, se debe evaluar varias veces).
 - ¿Qué ocurre si se define un valor de $h$ menor que $b$? ¿Es acertado hacer esto desde la ingeniería? ¿Por qué? Explicar el concepto matemático detalladamente.
 - Teniendo en cuenta las ecuaciones, en la vida práctica cómo se pueden aumentar la rigidez de la viga (discutir aspectos del material y de la geometría).
-**8. Revisión de hipótesis fundamentales:**
+8. **Revisión de hipótesis fundamentales:**
 - Se debe hacer un análisis del cumplimiento de las hipótesis fundamentales de la teoría EB.
-**9. Propiedades:**
-**10. Gráficas de cortantes, momentos, rotaciones y deflexiones:**
-**11. Cálculo de esfuerzos:**
+9. **Propiedades:**
+10. **Gráficas de cortantes, momentos, rotaciones y deflexiones:**
+11. **Cálculo de esfuerzos:**
 - Presentar las ecuaciones.
 - ¿Qué hipótesis/restricciones tienen en cuenta estas ecuaciones usadas? 
-**12. Cálculo de deformaciones:**
+12. **Cálculo de deformaciones:**
 - Presentar las ecuaciones.
 - ¿Qué hipótesis/restricciones tienen en cuenta estas ecuaciones usadas? 
-**13. Cálculo de esfuerzos y direcciones principales:**
+13. **Cálculo de esfuerzos y direcciones principales:**
 - Presentar las ecuaciones.
 - ¿Qué hipótesis/restricciones tienen en cuenta estas ecuaciones usadas? 
-**14. Análisis de las gráficas de esfuerzos:**
-**15. Análisis de las gráficas de deformaciones:**
-**16. Análisis de las gráficas de esfuerzos y direcciones principales:**
-**17. Alternativas de diseño (esquemáticas):**
-**18. Diseño convencional (esquemático):**
-**19. Conclusiones:**
+14. **Análisis de las gráficas de esfuerzos:**
+15. **Análisis de las gráficas de deformaciones:**
+16. **Análisis de las gráficas de esfuerzos y direcciones principales:**
+17. **Alternativas de diseño (esquemáticas):**
+18. **Diseño convencional (esquemático):**
+19. **Conclusiones:**
+Se deben escribir varias conclusiones generales de la interpretación de los gráficos, ecuaciones y fenómenos físicos. Algunas preguntas orientadoras:
 - ¿Qué diferencia hay entre $tau_{máx}$ y $tau_{xy}$ en un punto $x$.
 
 ## Archivos requeridos
