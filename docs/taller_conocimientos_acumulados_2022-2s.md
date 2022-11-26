@@ -18,22 +18,28 @@ Con este taller se pretende evaluar los conocimientos adquiridos de las seccione
 Los pasos del 1 al 6 deberán realizarse con todas las variables simbólicas (no se puede remplazar ninguna variable). En los procedimientos se pueden hacer usando cualquier herramienta adicional, pero en el trabajo deberá quedar consignado el paso a paso con su respectiva explicación.
 
 ### A. Análisis
-Dada una viga de concreto reforzado, se deben hacer dos análisis:
-- Con módulo de elasticidad costante para toda la viga, $E$, realizando todos los cálculos, análisis y gráficas.
+Dada una viga con sección transversal constante, se deben hacer dos análisis:
+- Con módulo de elasticidad costante para toda la viga, $E$, realizando todos los cálculos, análisis y gráficas en términos de las variables simbólicas.
 - Con módulo de elasticidad variable de forma lineal realizando todos los cálculos, análisis y gráficas en términos de las variables simbólicas. Suponer que la viga tiene un módulo de elasticidad $E_1$ a la izquieda y $E_2$ a la derecha (variación lineal).
 1. **Cálculo de reacciones:**
-
+- Cálcular las ecuaciones de todas las reacciones en los apoyos de la viga (mostrar procedimiento y diagramas de cuerpo libre).
 2. **Determinación de condiciones de frontera:**
 - Definir cuáles son las condiciones de frontera de la ecuación diferencial.
-- En las vigas que son descritas con funciones a trozos se deben condierar que $\theta(x)$
+- En las vigas que son descritas con funciones a trozos se debe condierar que $\theta(x)$ por la izquierda es igual $\theta(x)$ por la derecha para un mismo punto.
 3. **Cálculo y análisis de la gráfica de cortantes:**
-- Hallar la(s) ecuacion(es) que describen $V(x).
+- Hallar la(s) ecuacion(es) que describen $V(x)$.
+- Determinar los $V(x)$ máximos y mínimos y sus posiciones $x$.
+- Gráficar $V(x)$ con las concavidades adecuadas.
 4. **Cálculo y análisis de la gráfica de momentos:**
-- Hallar la(s) ecuacion(es) que describen $M(x).
+- Hallar la(s) ecuacion(es) que describen $M(x)$.
+- Determinar los $M(x)$ máximos y mínimos y sus posiciones $x$.
+- Gráficar $M(x)$ con las concavidades adecuadas.
 5. **Cálculo y análisis de la gráfica de giros:**
-- Hallar la(s) ecuacion(es) que describen $\theta(x).
-6. **Cálculo y análisis de la gráfica de deflexiones:**
-- Hallar la(s) ecuacion(es) que describen $v(x).
+- Hallar la(s) ecuacion(es) que describen $\theta(x)$.
+- Determinar los $\theta(x)$ máximos y mínimos y sus posiciones $x$.
+- Gráficar $\theta(x)$ con las concavidades adecuadas.
+6. **Cálculo y análisis de la gráfica de deflexiones:4**
+- Hallar la(s) ecuacion(es) que describen $v(x)$.
 - Hallar la ecuación de la deflexión máxima $v_{máx}$ en cada luz y su posición $x$. ¿Cuál es la mayor?
 - 
 ### B. Diseño
@@ -73,8 +79,16 @@ Las vigas tienen los siguientes parámetros:
 17. **Alternativas de diseño (esquemáticas):**
 18. **Diseño convencional (esquemático):**
 19. **Conclusiones:**
-Se deben escribir varias conclusiones generales de la interpretación de los gráficos, ecuaciones y fenómenos físicos. Algunas preguntas orientadoras:
+Se deben escribir varias conclusiones generales de la interpretación de los gráficos, ecuaciones y fenómenos físicos. Algunas preguntas orientadoras (obligatorio responder):
 - ¿Qué diferencia hay entre $tau_{máx}$ y $tau_{xy}$ en un punto $x$.
+- ¿Cómo diferenciar una viga estatícamente determinada y una hiperestática?
+- ¿Por qué no es importante el signo positivo o negativo de una fuerza cortante o de un esfuerzo cortante?.
+- ¿Por qué es importante diferenciar momentos flectores positivos y negativos?
+- ¿Por qué el diagrama de momentos $M(x)$ se dibuja invertido? ¿Qué representa?
+- ¿Qué relación tiene $M(x)$ con $\sigma_1$ y sus direcciones $\theta_1?
+- ¿Qué relación tiene $M(x)$ con $\sigma_2$ y sus direcciones $\theta_2?
+- ¿Qué relación tiene $V(x)$ con $\sigma_1$ y sus direcciones $\theta_1?
+- ¿Qué relación tiene $V(x)$ con $\sigma_2$ y sus direcciones $\theta_2?
 
 ## Archivos requeridos
 Los archivos deberán ser subidos al classroom de forma independiente (no comprimidos). No se aceptan trabajos por ningún otro medio.
