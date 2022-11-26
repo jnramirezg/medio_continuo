@@ -86,28 +86,35 @@ Con los valores reemplazados, usando la librería matplotlib de Python:
 - Presentar las ecuaciones.
 - ¿Qué hipótesis/restricciones tienen en cuenta estas ecuaciones usadas? 
 14. **Análisis de las gráficas de esfuerzos:**
-- Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\sigma_x$
-- Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\sigma_y$
-- Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\tau_{xy}$
+- Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\sigma_x$.
+- Interpretar a partir del concepto físico de esfuerzos los puntos característicos de $\sigma_x$.
+- Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\sigma_y$.
+- Interpretar a partir del concepto físico de esfuerzos los puntos característicos de $\sigma_y$.
+- Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\tau_{xy}$.
+- Interpretar a partir del concepto físico de esfuerzos los puntos característicos de $\tau_{xy}$.
 
 15. **Análisis de las gráficas de deformaciones:**
-- Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\varepsilon_x$
+- Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\varepsilon_x$.
 - De acuerdo con la ecuación de $\varepsilon_x$ ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico?
-- Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\varepsilon_y$
+- Interpretar a partir del concepto físico de deformaciones los puntos característicos de $\varepsilon_x$.
+- Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\varepsilon_y$ y $\varepsilon_z$.
+- De acuerdo con la ecuación de $\varepsilon_y$ y $\varepsilon_z$ ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico? ¿Por qué los gráficos de $\varepsilon_y$ y $\varepsilon_z$ son similares?
+- Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\gamma_{xy}$.
 - De acuerdo con la ecuación de $\varepsilon_y$ ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico?
-- Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\gamma_{xy}$
-- De acuerdo con la ecuación de $\varepsilon_y$ ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico?
+- Interpretar a partir del concepto físico de deformaciones los puntos característicos de $\gamma_{xy}$.
 
 16. **Análisis de las gráficas de esfuerzos y direcciones principales, y $tau_{máx}$**
 - Hacer un esquema (a mano) que muestre el agrietamiento esperado en la viga.
 - Hacer un esquema (a mano) que muestre los puntos de probabilidad de falla inicial de la viga.
 - ¿Cuál es la interpretación física de $\sigma_1$ y $\theta_1$ en el concreto reforzado?
 - ¿Cuál es la interpretación física de $\sigma_2$ y $\theta_2$ en el concreto reforzado?
-- ¿Cuál es la interpretación física de $\tau_{máx}$? en el concreto reforzado?
+- ¿Cuál es la interpretación física de $\tau_{máx}$? en el concreto reforzado? En particular para la viga dada ¿qué interpretación genera?
 17. **Alternativa de diseño (esquemático):**
 - Siguiendo el ejemplo de clase
 18. **Diseño convencional (esquemático):**
-- Siguiendo el ejemplo de clase
+Siguiendo el ejemplo de clase realizar un diseño esquemático del acero (no poner dimensiones, sino graficar en una escala aproximada) en el que se muestre:
+- Las zonas de mayor y menor concentración de flejes.
+- Las zonas de mayor y menos concentración de barras longitudinales de acero.
 19. **Conclusiones:**
 Se deben escribir varias conclusiones generales de la interpretación de los gráficos, ecuaciones y fenómenos físicos. Algunas preguntas orientadoras (obligatorio responder):
 - ¿Qué diferencia hay entre $\tau_{máx}$ y $\tau_{xy}$ en un punto $x$.
@@ -115,10 +122,8 @@ Se deben escribir varias conclusiones generales de la interpretación de los gr�
 - ¿Por qué no es importante el signo positivo o negativo de una fuerza cortante o de un esfuerzo cortante?.
 - ¿Por qué es importante diferenciar momentos flectores positivos y negativos?
 - ¿Por qué el diagrama de momentos $M(x)$ se dibuja invertido? ¿Qué representa?
-- ¿Qué relación tiene $M(x)$ con $\sigma_1$ y sus direcciones $\theta_1$?
-- ¿Qué relación tiene $M(x)$ con $\sigma_2$ y sus direcciones $\theta_2$?
+- ¿Qué relación tiene $M(x)$ con $\sigma_1$ y sus direcciones $\theta_1$? 
 - ¿Qué relación tiene $V(x)$ con $\sigma_1$ y sus direcciones $\theta_1$?
-- ¿Qué relación tiene $V(x)$ con $\sigma_2$ y sus direcciones $\theta_2$?
 - ¿Qué ocurre si se hace $\sigma_y=0$ para toda la viga?
 - ¿Cuál es la importancia de las curvas de nivel en los gráficos?
 
