@@ -94,7 +94,9 @@ Para cada gráfico:
 - De acuerdo con la ecuación de cada gráfico ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico?
 - ¿Cuál es la interpretación física de $\sigma_1$, $\theta_1$, $\sigma_2$, $\theta_2$ y $\tau_{máx}$?
 17. **Alternativa de diseño (esquemático):**
+- Siguiendo el ejemplo de clase
 18. **Diseño convencional (esquemático):**
+- Siguiendo el ejemplo de clase
 19. **Conclusiones:**
 Se deben escribir varias conclusiones generales de la interpretación de los gráficos, ecuaciones y fenómenos físicos. Algunas preguntas orientadoras (obligatorio responder):
 - ¿Qué diferencia hay entre $\tau_{máx}$ y $\tau_{xy}$ en un punto $x$.
