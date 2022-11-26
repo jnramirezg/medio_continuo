@@ -4,10 +4,10 @@ Con este taller se pretende evaluar los conocimientos adquiridos de las seccione
 
 ## Condiciones generales
 
-- Calificación máxima 6.0
+- Calificación máxima 6.0.
 - Su calificación será el 15% de la asignatura, es decir, el examen 5 solo será del 15% evaluando los temas vistos del capítulo 5.
 - Con esta modificación, la forma de calcular el beneficio del taller de aplicación (software) deberá tener en cuenta todas las combinaciones de exámenes que sumen entre 30% y 35%.
-- El número de ejercicio asignado corresponde al consignado por cada estudiante en este [archivo](https://docs.google.com/spreadsheets/d/10dXXVYqDi_RnkPKeYG-pzM-5e6u3kO7PCjtUGvMa34c/edit#gid=0)
+- El número de ejercicio asignado corresponde al consignado por cada estudiante en este [archivo](https://docs.google.com/spreadsheets/d/10dXXVYqDi_RnkPKeYG-pzM-5e6u3kO7PCjtUGvMa34c/edit#gid=0).
 - El modelo de viga que le corresponde a cada estudiante fue subido al classroom.
 - El taller está disponible a partir de las 00:00h del 26 de noviembre de 2022.
 - Fecha límite de entrega: martes 06 de diciembre de 2022 a las 23:59h.
