@@ -97,7 +97,7 @@ Para cada gráfico:
 18. **Diseño convencional (esquemático):**
 19. **Conclusiones:**
 Se deben escribir varias conclusiones generales de la interpretación de los gráficos, ecuaciones y fenómenos físicos. Algunas preguntas orientadoras (obligatorio responder):
-- ¿Qué diferencia hay entre $tau_{máx}$ y $tau_{xy}$ en un punto $x$.
+- ¿Qué diferencia hay entre $\tau_{máx}$ y $\tau_{xy}$ en un punto $x$.
 - ¿Cómo diferenciar una viga estatícamente determinada y una hiperestática?
 - ¿Por qué no es importante el signo positivo o negativo de una fuerza cortante o de un esfuerzo cortante?.
 - ¿Por qué es importante diferenciar momentos flectores positivos y negativos?
