@@ -86,12 +86,18 @@ Con los valores reemplazados, usando la librería matplotlib de Python:
 - Presentar las ecuaciones.
 - ¿Qué hipótesis/restricciones tienen en cuenta estas ecuaciones usadas? 
 14. **Análisis de las gráficas de esfuerzos:**
+- Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\sigma_x$
+- Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\sigma_y$
+- Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\tau_{xy}$
+
+15. **Análisis de las gráficas de deformaciones:**
 - Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\varepsilon_x$
 - De acuerdo con la ecuación de $\varepsilon_x$ ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico?
-15. **Análisis de las gráficas de deformaciones:**
-Para cada gráfico:
-- Hacer un esquema donde se señalen los puntos característicos (máximos, mínimos, valores nulos).
-- De acuerdo con la ecuación de cada gráfico ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico?
+- Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\varepsilon_y$
+- De acuerdo con la ecuación de $\varepsilon_y$ ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico?
+- Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\gamma_{xy}$
+- De acuerdo con la ecuación de $\varepsilon_y$ ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico?
+
 16. **Análisis de las gráficas de esfuerzos y direcciones principales, y $tau_{máx}$**
 - Hacer un esquema (a mano) que muestre el agrietamiento esperado en la viga.
 - Hacer un esquema (a mano) que muestre los puntos de probabilidad de falla inicial de la viga.
