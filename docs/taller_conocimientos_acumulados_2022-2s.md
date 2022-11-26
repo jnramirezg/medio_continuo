@@ -30,10 +30,12 @@ Dada una viga con sección transversal constante, se deben hacer dos análisis:
 - Hallar la(s) ecuacion(es) que describen $V(x)$.
 - Determinar los $V(x)$ máximos y mínimos y sus posiciones $x$.
 - Gráficar $V(x)$ con las concavidades adecuadas y sus puntos característicos.
+- ¿Cuál es la interpretación física de un diagrama de cortantes $V(x)$?
 4. **Cálculo y análisis de la gráfica de momentos:**
 - Hallar la(s) ecuacion(es) que describen $M(x)$.
 - Determinar los $M(x)$ máximos y mínimos y sus posiciones $x$.
 - Gráficar $M(x)$ con las concavidades adecuadas y sus puntos característicos.
+- ¿Cuál es la interpretación física de un diagrama de momentos flectores $M(x)$?
 5. **Cálculo y análisis de la gráfica de giros:**
 - Hallar la(s) ecuacion(es) que describen $\theta(x)$.
 - Determinar los $\theta(x)$ máximos y mínimos y sus posiciones $x$.
@@ -56,6 +58,9 @@ Las vigas tienen los siguientes parámetros:
 - $q_2=-40kN/m$
 - $q_3=-20kN/m$
 - $f'c=21MPa$
+
+Los pasos del 7 al 16 se realizan adaptando el programa [27- Diseño de concreto](https://github.com/jnramirezg/mecanica_de_solidos/blob/main/codigo/27-diseno_concreto_reforzado.ipynb), pero las respuestas a las preguntas y el análisis deben ir dentro del trabajo en .pdf.
+
 7. **Dimensionamiento de la viga:**
 - Se debe "diseñar" las dimensiones de la viga, de tal forma que $b$ y $h$ sean suficientes evitar que la deflexión máxima de la viga sea mayor que $luz-libre/360$ (exigido por los códigos de construcción). Nota: Recuerde que la luz libre es la distancia entre dos apoyos, es decir, hay vigas con varios apoyos; por lo tanto, se debe evaluar varias veces).
 - ¿Qué ocurre si se define un valor de $h$ menor que $b$? ¿Es acertado hacer esto desde la ingeniería? ¿Por qué? Explicar el concepto matemático detalladamente.
@@ -63,7 +68,9 @@ Las vigas tienen los siguientes parámetros:
 8. **Revisión de hipótesis fundamentales:**
 - Se debe hacer un análisis del cumplimiento de las hipótesis fundamentales de la teoría EB.
 9. **Propiedades:**
+- Establecer las propiedades geométricas y elásticas del material.
 10. **Gráficas de cortantes, momentos, rotaciones y deflexiones:**
+- Graficar $V(x)$, $M(x)$, $\theta(x)$ y $v(x)$.
 11. **Cálculo de esfuerzos:**
 - Presentar las ecuaciones.
 - ¿Qué hipótesis/restricciones tienen en cuenta estas ecuaciones usadas? 
@@ -86,7 +93,7 @@ Para cada gráfico:
 - Hacer un esquema donde se señalen los puntos característicos (máximos, mínimos, valores nulos).
 - De acuerdo con la ecuación de cada gráfico ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico?
 - ¿Cuál es la interpretación física de $\sigma_1$, $\theta_1$, $\sigma_2$, $\theta_2$ y $\tau_{máx}$.
-17. **Alternativas de diseño (esquemáticas):**
+17. **Alternativa de diseño (esquemático):**
 18. **Diseño convencional (esquemático):**
 19. **Conclusiones:**
 Se deben escribir varias conclusiones generales de la interpretación de los gráficos, ecuaciones y fenómenos físicos. Algunas preguntas orientadoras (obligatorio responder):
