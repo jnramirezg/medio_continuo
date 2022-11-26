@@ -21,12 +21,12 @@ Los pasos del 1 al 6 deberán realizarse con todas las variables simbólicas (no
 Dada una viga de concreto reforzado, se deben hacer dos análisis:
 - Con módulo de elasticidad costante para toda la viga, $E$, realizando todos los cálculos, análisis y gráficas.
 - Con módulo de elasticidad variable de forma lineal realizando todos los cálculos, análisis y gráficas en términos de las variables simbólicas. Suponer que la viga tiene un módulo de elasticidad $E_1$ a la izquieda y $E_2$ a la derecha (variación lineal).
-1. Cálculo de reacciones:
-2. Determinación de condiciones de frontera:
-3. Cálculo y análisis de la gráfica de cortantes:
-4. Cálculo y análisis de la gráfica de momentos:
-5. Cálculo y análisis de la gráfica de giros:
-6. Cálculo y análisis de la gráfica de deflexiones:
+**1. Cálculo de reacciones:**
+**2. Determinación de condiciones de frontera:**
+**3. Cálculo y análisis de la gráfica de cortantes:**
+**4. Cálculo y análisis de la gráfica de momentos:**
+**5. Cálculo y análisis de la gráfica de giros:**
+**6. Cálculo y análisis de la gráfica de deflexiones:**
 
 ### Diseño
 Las vigas tienen los siguientes parámetros:
@@ -42,29 +42,29 @@ Las vigas tienen los siguientes parámetros:
 - $q_2=-40kN/m$
 - $q_3=-20kN/m$
 - $f'c=21MPa$
-7. Dimensionamiento de la viga: 
+**7. Dimensionamiento de la viga:**
 - Se debe "diseñar" las dimensiones de la viga, de tal forma que $b$ y $h$ sean suficientes evitar que la deflexión máxima de la viga sea mayor que $luz_libre/360$ (exigido por los códigos de construcción). Nota: Recuerde que la luz libre es la distancia entre dos apoyos, es decir, hay vigas con varios apoyos; por lo tanto, se debe evaluar varias veces).
 - ¿Qué ocurre si se define un valor de $h$ menor que $b$? ¿Es acertado hacer esto desde la ingeniería? ¿Por qué? Explicar el concepto matemático detalladamente.
 - Teniendo en cuenta las ecuaciones, en la vida práctica cómo se pueden aumentar la rigidez de la viga (discutir aspectos del material y de la geometría).
-8. Revisión de hipótesis fundamentales: 
-- se debe hacer un análisis del cumplimiento de las hipótesis fundamentales de la teoría EB.
-9. Propiedades:
-10. Gráficas de cortantes, momentos, rotaciones y deflexiones:
-11. Cálculo de esfuerzos:
+**8. Revisión de hipótesis fundamentales:**
+- Se debe hacer un análisis del cumplimiento de las hipótesis fundamentales de la teoría EB.
+**9. Propiedades:**
+**10. Gráficas de cortantes, momentos, rotaciones y deflexiones:**
+**11. Cálculo de esfuerzos:**
 - Presentar las ecuaciones.
 - ¿Qué hipótesis/restricciones tienen en cuenta estas ecuaciones usadas? 
-12. Cálculo de deformaciones: 
+**12. Cálculo de deformaciones:**
 - Presentar las ecuaciones.
 - ¿Qué hipótesis/restricciones tienen en cuenta estas ecuaciones usadas? 
-13. Cálculo de esfuerzos y direcciones principales:
+**13. Cálculo de esfuerzos y direcciones principales:**
 - Presentar las ecuaciones.
 - ¿Qué hipótesis/restricciones tienen en cuenta estas ecuaciones usadas? 
-14. Análisis de las gráficas de esfuerzos:
-15. Análisis de las gráficas de deformaciones:
-16. Análisis de las gráficas de esfuerzos y direcciones principales:
-17. Alternativas de diseño (esquemáticas):
-18. Diseño convencional (esquemático):
-19. Conclusiones:
+**14. Análisis de las gráficas de esfuerzos:**
+**15. Análisis de las gráficas de deformaciones:**
+**16. Análisis de las gráficas de esfuerzos y direcciones principales:**
+**17. Alternativas de diseño (esquemáticas):**
+**18. Diseño convencional (esquemático):**
+**19. Conclusiones:**
 - ¿Qué diferencia hay entre $tau_{máx}$ y $tau_{xy}$ en un punto $x$.
 
 ## Archivos requeridos
