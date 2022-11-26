@@ -17,18 +17,18 @@ Con este taller se pretende evaluar los conocimientos adquiridos de las seccione
 ## Estructura principal del taller
 Los pasos del 1 al 6 deberán realizarse con todas las variables simbólicas (no se puede remplazar ninguna variable). Los procedimientos se pueden hacer usando cualquier herramienta adicional, pero en el trabajo deberá quedar consignado el paso a paso con su respectiva explicación.
 
-### Análisis
+### A. Análisis
 Dada una viga de concreto reforzado, se deben hacer dos análisis:
 - Con módulo de elasticidad costante para toda la viga, $E$, realizando todos los cálculos, análisis y gráficas.
 - Con módulo de elasticidad variable de forma lineal realizando todos los cálculos, análisis y gráficas en términos de las variables simbólicas. Suponer que la viga tiene un módulo de elasticidad $E_1$ a la izquieda y $E_2$ a la derecha (variación lineal).
-**1. Cálculo de reacciones:*
-**2. Determinación de condiciones de frontera:**
-**3. Cálculo y análisis de la gráfica de cortantes:**
-**4. Cálculo y análisis de la gráfica de momentos:**
-**5. Cálculo y análisis de la gráfica de giros:**
-**6. Cálculo y análisis de la gráfica de deflexiones:**
+1. **Cálculo de reacciones:*
+2. **Determinación de condiciones de frontera:**
+3. **Cálculo y análisis de la gráfica de cortantes:**
+4. **Cálculo y análisis de la gráfica de momentos:**
+5. **Cálculo y análisis de la gráfica de giros:**
+6. **Cálculo y análisis de la gráfica de deflexiones:**
 
-### Diseño
+### B. Diseño
 Las vigas tienen los siguientes parámetros:
 - $L_1=6m$
 - $L_2=4m$
