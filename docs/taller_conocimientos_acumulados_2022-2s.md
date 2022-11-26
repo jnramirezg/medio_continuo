@@ -27,11 +27,15 @@ Dada una viga de concreto reforzado, se deben hacer dos análisis:
 - Definir cuáles son las condiciones de frontera de la ecuación diferencial.
 - En las vigas que son descritas con funciones a trozos se deben condierar que $\theta(x)$
 3. **Cálculo y análisis de la gráfica de cortantes:**
+- Hallar la(s) ecuacion(es) que describen $V(x).
 4. **Cálculo y análisis de la gráfica de momentos:**
+- Hallar la(s) ecuacion(es) que describen $M(x).
 5. **Cálculo y análisis de la gráfica de giros:**
+- Hallar la(s) ecuacion(es) que describen $\theta(x).
 6. **Cálculo y análisis de la gráfica de deflexiones:**
-- Hallar la ecuación de la deflexión máxima $v_{máx}$ en cada luz y su posición $x$.
-- ¿Cuál es la mayor?
+- Hallar la(s) ecuacion(es) que describen $v(x).
+- Hallar la ecuación de la deflexión máxima $v_{máx}$ en cada luz y su posición $x$. ¿Cuál es la mayor?
+- 
 ### B. Diseño
 Las vigas tienen los siguientes parámetros:
 - $L_1=6m$
