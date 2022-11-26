@@ -71,7 +71,7 @@ Las vigas tienen los siguientes parámetros:
 Los pasos del 7 al 16 se realizan adaptando el programa [27- Diseño de concreto](https://github.com/jnramirezg/mecanica_de_solidos/blob/main/codigo/27-diseno_concreto_reforzado.ipynb), pero las respuestas a las preguntas y el análisis deben ir dentro del trabajo en .pdf.
 
 7. **Dimensionamiento de la viga:**
-- Se debe "diseñar" las dimensiones de la viga, de tal forma que $b$ y $h$ sean suficientes evitar que la deflexión máxima de la viga sea mayor que $luz-libre/360$ (exigido por los códigos de construcción). Nota: Recuerde que la luz libre es la distancia entre dos apoyos, es decir, hay vigas con varios apoyos; por lo tanto, se debe evaluar varias veces).
+- Se debe "diseñar" las dimensiones de la viga, de tal forma que $b$ y $h$ sean suficientes evitar que la deflexión máxima de la viga sea mayor que $luz-libre/360$ (exigido por los códigos de construcción). Nota: Recuerde que la luz libre es la distancia entre dos apoyos, es decir, hay vigas con varios apoyos; por lo tanto, se debe evaluar varias veces.
 - ¿Qué ocurre si se define un valor de $h$ menor que $b$? ¿Es acertado hacer esto desde la ingeniería? ¿Por qué? Explicar el concepto matemático detalladamente.
 - Teniendo en cuenta las ecuaciones, en la vida práctica cómo se pueden aumentar la rigidez de la viga (discutir aspectos del material y de la geometría).
 8. **Revisión de hipótesis fundamentales:**
