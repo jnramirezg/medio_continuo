@@ -6,6 +6,7 @@ Con este taller se pretende evaluar los conocimientos adquiridos de las seccione
 
 - Afianzar los conocimientos y su relación con la ingeniería civil en cálculo diferencial, cálculo integral, cálculo vectorial, álgebra lineal, ecuaciones diferenciales, física mecánica, geometría euclidiana, estática, análisis estructural básico, mecánica tensorial y programación de computadores aplicados a la ingeniería civil.
 - Preparar al estudiante para cursos de métodos numéricos aplicados a la ingeniería civil, apliaciones de elementos finitos, diseño de concreto reforzado básico, diseño de concreto reforzado avanzado, análisis estructural avanzado, cimentaciones, geotecnia y pavimentos.
+- Aplicar los conocimientos adquiridos en mecánica de sólidos en esfuerzos, deformaciones y ley de Hooke.
 
 ## Condiciones generales
 
