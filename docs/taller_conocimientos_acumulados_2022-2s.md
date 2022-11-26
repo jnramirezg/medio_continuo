@@ -1,16 +1,16 @@
 # Taller de aplicación de conocimientos acumulados
 
-Con este taller se pretende evaluar los conocimientos adquiridos de las secciones 4.4, 4.5, 4.6, 4.7, 4.8, 4.9, 4.10, 9.1, 9.2, 9.3, 9.4, 9.5, 9.6, 9.7, 9.8, 9.9 y 9.10 del main.pdf. Pero a partir de una aplicación de la teoría de Euler-Bernoulli se busca reforzar los conocimiento previos a mecánica de sólidos y todos adquiridos hasta el momento en la asignatura.
+Con este taller se pretende evaluar los conocimientos adquiridos de las secciones 4.4, 4.5, 4.6, 4.7, 4.8, 4.9, 4.10, 9.1, 9.2, 9.3, 9.4, 9.5, 9.6, 9.7, 9.8, 9.9 y 9.10 del main.pdf. A partir de una aplicación de la teoría de Euler-Bernoulli se busca reforzar los conocimiento previos a mecánica de sólidos y todos adquiridos hasta el momento en la asignatura.
 
 ## Condiciones generales
 
 - Calificación máxima 6.0
 - Su calificación será el 15% de la asignatura, es decir, el examen 5 solo será del 15% evaluando los temas vistos del capítulo 5.
-- Con esta modificación, la forma de calcular el beneficio del taller de aplicación deberá tener en cuenta todas las combinaciones de exámenes que sumen entre 30% y 35%.
+- Con esta modificación, la forma de calcular el beneficio del taller de aplicación (software) deberá tener en cuenta todas las combinaciones de exámenes que sumen entre 30% y 35%.
 - El número de ejercicio asignado corresponde al consignado por cada estudiante en este [archivo](https://docs.google.com/spreadsheets/d/10dXXVYqDi_RnkPKeYG-pzM-5e6u3kO7PCjtUGvMa34c/edit#gid=0)
-- Los ejercicios fueron subidos al classroom.
+- El modelo de viga que le corresponde a cada estudiante fue subido al classroom.
 - El taller está disponible a partir de las 00:00h del 26 de noviembre de 2022.
-- Fecha límite de entrega: martes 06 de diciembre de 2022 a las 23:59.
+- Fecha límite de entrega: martes 06 de diciembre de 2022 a las 23:59h.
 - Se solicita que todos los cálculos sean detallados, que no estén fuera de contexto. Cada paso debe ir acompañado de un texto que soporte por qué se hacen las cosas.
 - La parte procedimental y las respuestas se pueden presentar a mano (en hoja blanca) o hechas en computador siempre y cuando sean presentadas las ecuaciones con la notación real.
 
@@ -18,9 +18,9 @@ Con este taller se pretende evaluar los conocimientos adquiridos de las seccione
 Los pasos del 1 al 6 deberán realizarse con todas las variables simbólicas (no se puede remplazar ninguna variable). Los procedimientos se pueden hacer usando cualquier herramienta adicional, pero en el trabajo deberá quedar consignado el paso a paso con su respectiva explicación.
 
 ### Análisis
-Dada una viga de concreto reforzado dada, se deben hacer dos análisis:
+Dada una viga de concreto reforzado, se deben hacer dos análisis:
 - Con módulo de elasticidad costante para toda la viga, $E$, realizando todos los cálculos, análisis y gráficas.
-- Con módulo de elasticidad variables realizando todos los cálculos, análisis y gráficas en términos de las variables simbólicas. Suponer que el concreto tiene resistencia $f'c=21MPa$ a la izquieda y $f'c=28MPa$ a la derecha.
+- Con módulo de elasticidad variable de forma lineal realizando todos los cálculos, análisis y gráficas en términos de las variables simbólicas. Suponer que el concreto tiene una resistencia $f'c=21MPa$ a la izquieda y $f'c=28MPa$ a la derecha (variación lineal).
 1. Cálculo de reacciones y determinación de condiciones de frontera:
 2. Cálculo y análisis de la gráfica de cortantes:
 3. Cálculo y análisis de la gráfica de momentos:
