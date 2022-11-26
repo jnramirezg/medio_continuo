@@ -25,23 +25,24 @@ Dada una viga con sección transversal constante, se deben hacer dos análisis:
 - Cálcular las ecuaciones de todas las reacciones en los apoyos de la viga (mostrar procedimiento y diagramas de cuerpo libre).
 2. **Determinación de condiciones de frontera:**
 - Definir cuáles son las condiciones de frontera de la ecuación diferencial.
-- En las vigas que son descritas con funciones a trozos se debe condierar que $\theta(x)$ por la izquierda es igual $\theta(x)$ por la derecha para un mismo punto.
+- En las vigas que son descritas con funciones a trozos se debe considerar que $\theta(x)$ por la izquierda es igual $\theta(x)$ por la derecha para un mismo punto.
 3. **Cálculo y análisis de la gráfica de cortantes:**
 - Hallar la(s) ecuacion(es) que describen $V(x)$.
 - Determinar los $V(x)$ máximos y mínimos y sus posiciones $x$.
-- Gráficar $V(x)$ con las concavidades adecuadas y sus puntos característicos.
-- ¿Cuál es la interpretación física de un diagrama de cortantes $V(x)$?
+- Gráficar esquemáticamente $V(x)$ con las concavidades adecuadas y sus puntos característicos.
+- ¿Cuál es la interpretación física de un diagrama de cortantes $V(x)$? (concepto visto en estática).
 4. **Cálculo y análisis de la gráfica de momentos:**
 - Hallar la(s) ecuacion(es) que describen $M(x)$.
 - Determinar los $M(x)$ máximos y mínimos y sus posiciones $x$.
-- Gráficar $M(x)$ con las concavidades adecuadas y sus puntos característicos.
-- ¿Cuál es la interpretación física de un diagrama de momentos flectores $M(x)$?
+- Gráficar esquemáticamente $M(x)$ con las concavidades adecuadas y sus puntos característicos.
+- ¿Cuál es la interpretación física de un diagrama de momentos flectores $M(x)$? (concepto visto en estática y m. sólidos).
 5. **Cálculo y análisis de la gráfica de giros:**
 - Hallar la(s) ecuacion(es) que describen $\theta(x)$.
 - Determinar los $\theta(x)$ máximos y mínimos y sus posiciones $x$.
-- Gráficar $\theta(x)$ con las concavidades adecuadas y sus puntos característicos.
+- Gráficar esquemáticamente $\theta(x)$ con las concavidades adecuadas y sus puntos característicos.
 6. **Cálculo y análisis de la gráfica de deflexiones:4**
 - Hallar la(s) ecuacion(es) que describen $v(x)$.
+- Gráficar esquemáticamente $v(x)$ con las concavidades adecuadas y sus puntos característicos.
 - Hallar la ecuación de la deflexión máxima $v_{máx}$ en cada luz y su posición $x$. ¿Cuál es la mayor de todas?
 - Explicar para cada una de las variables simbólicas cómo modifican las deflexiones máximas. Ejemplo: como $E$ está en el denominador, provoca que la deflexión disminuya proporcionalmente. 
 ### B. Diseño
@@ -70,7 +71,11 @@ Los pasos del 7 al 16 se realizan adaptando el programa [27- Diseño de concreto
 9. **Propiedades:**
 - Establecer las propiedades geométricas y elásticas del material.
 10. **Gráficas de cortantes, momentos, rotaciones y deflexiones:**
-- Graficar $V(x)$, $M(x)$, $\theta(x)$ y $v(x)$.
+Con los valores reemplazados, usando la librería matplotlib de Python:
+- Graficar $V(x)$.
+- Graficar $M(x)$.
+- Graficar $\theta(x)$.
+- Graficar $v(x)$.
 11. **Cálculo de esfuerzos:**
 - Presentar las ecuaciones.
 - ¿Qué hipótesis/restricciones tienen en cuenta estas ecuaciones usadas? 
@@ -81,18 +86,18 @@ Los pasos del 7 al 16 se realizan adaptando el programa [27- Diseño de concreto
 - Presentar las ecuaciones.
 - ¿Qué hipótesis/restricciones tienen en cuenta estas ecuaciones usadas? 
 14. **Análisis de las gráficas de esfuerzos:**
-Para cada gráfico:
-- Hacer un esquema donde se señalen los puntos característicos (máximos, mínimos, valores nulos).
-- De acuerdo con la ecuación de cada gráfico ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico?
+- Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\varepsilon_x$
+- De acuerdo con la ecuación de $\varepsilon_x$ ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico?
 15. **Análisis de las gráficas de deformaciones:**
 Para cada gráfico:
 - Hacer un esquema donde se señalen los puntos característicos (máximos, mínimos, valores nulos).
 - De acuerdo con la ecuación de cada gráfico ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico?
 16. **Análisis de las gráficas de esfuerzos y direcciones principales, y $tau_{máx}$**
-Para cada gráfico:
-- Hacer un esquema donde se señalen los puntos característicos (máximos, mínimos, valores nulos).
-- De acuerdo con la ecuación de cada gráfico ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico?
-- ¿Cuál es la interpretación física de $\sigma_1$, $\theta_1$, $\sigma_2$, $\theta_2$ y $\tau_{máx}$?
+- Hacer un esquema (a mano) que muestre el agrietamiento esperado en la viga.
+- Hacer un esquema (a mano) que muestre los puntos de probabilidad de falla inicial de la viga.
+- ¿Cuál es la interpretación física de $\sigma_1$ y $\theta_1$ en el concreto reforzado?
+- ¿Cuál es la interpretación física de $\sigma_2$ y $\theta_2$ en el concreto reforzado?
+- ¿Cuál es la interpretación física de $\tau_{máx}$? en el concreto reforzado?
 17. **Alternativa de diseño (esquemático):**
 - Siguiendo el ejemplo de clase
 18. **Diseño convencional (esquemático):**
@@ -108,6 +113,8 @@ Se deben escribir varias conclusiones generales de la interpretación de los gr�
 - ¿Qué relación tiene $M(x)$ con $\sigma_2$ y sus direcciones $\theta_2$?
 - ¿Qué relación tiene $V(x)$ con $\sigma_1$ y sus direcciones $\theta_1$?
 - ¿Qué relación tiene $V(x)$ con $\sigma_2$ y sus direcciones $\theta_2$?
+- ¿Qué ocurre si se hace $\sigma_y=0$ para toda la viga?
+- ¿Cuál es la importancia de las curvas de nivel en los gráficos?
 
 ## Archivos requeridos
 Los archivos deberán ser subidos al classroom de forma independiente (no comprimidos). No se aceptan trabajos por ningún otro medio.
@@ -117,9 +124,9 @@ Los archivos deberán ser subidos al classroom de forma independiente (no compri
 - Se advierte que los procedimientos matemáticos sin contexto ni explicación adecuada serán penalizados drásticamente.
 
 ## Bonificaciones
-- Si presenta todo el trabajo en formato Latex (incluso todo desarrollado en Jupyter notebook) recibirá una bonificación de [+1.0].
+- Si presenta todo el trabajo en formato Latex (incluso todo desarrollado en Jupyter notebook) recibirá una bonificación de [+1.0]. Las gráficas esquemáticas pueden ser fotografías.
 
 ## Penalizaciones
-- Todo trabajo enviado después de la hora límite recibirá una penalización de [-0.5] por cada hora de retraso.
-- Si el modelo que analiza y utiliza es diferente al asignado, la calificación será 0.0.
-- [-1.5] si presenta el trabajo en hojas que no sean completamente blancas, pues esto dificulta muchísimo la calificación.
+- Todo trabajo enviado después de la hora límite recibirá una penalización de **[-0.5]** por cada hora de retraso.
+- Si el modelo que analiza y utiliza es diferente al asignado, la calificación será **0.0.**
+- **[-1.5]** si presenta el trabajo en hojas que no sean completamente blancas, pues esto dificulta muchísimo la calificación.
