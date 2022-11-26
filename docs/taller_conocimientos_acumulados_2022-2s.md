@@ -20,7 +20,7 @@ Los pasos del 1 al 6 deberán realizarse con todas las variables simbólicas (no
 ### A. Análisis
 Dada una viga con sección transversal constante, se deben hacer dos análisis:
 - Con módulo de elasticidad costante para toda la viga, $E$, realizando todos los cálculos, análisis y gráficas en términos de las variables simbólicas.
-- Con módulo de elasticidad variable de forma lineal realizando todos los cálculos, análisis y gráficas en términos de las variables simbólicas. Suponer que la viga tiene un módulo de elasticidad $E_1$ a la izquieda y $E_2$ a la derecha (variación lineal).
+- Con módulo de elasticidad variable de forma lineal realizando todos los cálculos, análisis y gráficas en términos de las variables simbólicas. Suponer que la viga tiene un módulo de elasticidad $E_1$ a la izquieda y $E_2$ a la derecha (variación lineal). Tener en cuenta que $E_1<E_2$
 1. **Cálculo de reacciones:**
 - Cálcular las ecuaciones de todas las reacciones en los apoyos de la viga (mostrar procedimiento y diagramas de cuerpo libre).
 2. **Determinación de condiciones de frontera:**
@@ -29,19 +29,19 @@ Dada una viga con sección transversal constante, se deben hacer dos análisis:
 3. **Cálculo y análisis de la gráfica de cortantes:**
 - Hallar la(s) ecuacion(es) que describen $V(x)$.
 - Determinar los $V(x)$ máximos y mínimos y sus posiciones $x$.
-- Gráficar $V(x)$ con las concavidades adecuadas.
+- Gráficar $V(x)$ con las concavidades adecuadas y sus puntos característicos.
 4. **Cálculo y análisis de la gráfica de momentos:**
 - Hallar la(s) ecuacion(es) que describen $M(x)$.
 - Determinar los $M(x)$ máximos y mínimos y sus posiciones $x$.
-- Gráficar $M(x)$ con las concavidades adecuadas.
+- Gráficar $M(x)$ con las concavidades adecuadas y sus puntos característicos.
 5. **Cálculo y análisis de la gráfica de giros:**
 - Hallar la(s) ecuacion(es) que describen $\theta(x)$.
 - Determinar los $\theta(x)$ máximos y mínimos y sus posiciones $x$.
-- Gráficar $\theta(x)$ con las concavidades adecuadas.
+- Gráficar $\theta(x)$ con las concavidades adecuadas y sus puntos característicos.
 6. **Cálculo y análisis de la gráfica de deflexiones:4**
 - Hallar la(s) ecuacion(es) que describen $v(x)$.
-- Hallar la ecuación de la deflexión máxima $v_{máx}$ en cada luz y su posición $x$. ¿Cuál es la mayor?
-- 
+- Hallar la ecuación de la deflexión máxima $v_{máx}$ en cada luz y su posición $x$. ¿Cuál es la mayor de todas?
+- Explicar para cada una de las variables simbólicas cómo modifican las deflexiones máximas. Ejemplo: como $E$ está en el denominador, provoca que la deflexión disminuya proporcionalmente. 
 ### B. Diseño
 Las vigas tienen los siguientes parámetros:
 - $L_1=6m$
@@ -74,8 +74,18 @@ Las vigas tienen los siguientes parámetros:
 - Presentar las ecuaciones.
 - ¿Qué hipótesis/restricciones tienen en cuenta estas ecuaciones usadas? 
 14. **Análisis de las gráficas de esfuerzos:**
+Para cada gráfico:
+- Hacer un esquema donde se señalen los puntos característicos (máximos, mínimos, valores nulos).
+- De acuerdo con la ecuación de cada gráfico ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico?
 15. **Análisis de las gráficas de deformaciones:**
-16. **Análisis de las gráficas de esfuerzos y direcciones principales:**
+Para cada gráfico:
+- Hacer un esquema donde se señalen los puntos característicos (máximos, mínimos, valores nulos).
+- De acuerdo con la ecuación de cada gráfico ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico?
+16. **Análisis de las gráficas de esfuerzos y direcciones principales, y $tau_{máx}$**
+Para cada gráfico:
+- Hacer un esquema donde se señalen los puntos característicos (máximos, mínimos, valores nulos).
+- De acuerdo con la ecuación de cada gráfico ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico?
+- ¿Cuál es la interpretación física de $\sigma_1$, $\theta_1$, $\sigma_2$, $\theta_2$ y $\tau_{máx}$.
 17. **Alternativas de diseño (esquemáticas):**
 18. **Diseño convencional (esquemático):**
 19. **Conclusiones:**
