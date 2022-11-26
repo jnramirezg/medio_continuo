@@ -48,10 +48,10 @@ Dada una viga con sección transversal constante, se deben hacer dos análisis:
 - Hallar la(s) ecuacion(es) que describen $\theta(x)$.
 - Determinar los $\theta(x)$ máximos y mínimos y sus posiciones $x$.
 - Gráficar esquemáticamente $\theta(x)$ con las concavidades adecuadas y sus puntos característicos.
-6. **Cálculo y análisis de la gráfica de deflexiones:4**
+6. **Cálculo y análisis de la gráfica de deflexiones:**
 - Hallar la(s) ecuacion(es) que describen $v(x)$.
 - Gráficar esquemáticamente $v(x)$ con las concavidades adecuadas y sus puntos característicos.
-- Hallar la ecuación de la deflexión máxima $v_{máx}$ en cada luz y su posición $x$. ¿Cuál es la mayor de todas?
+- Hallar la ecuación de la deflexión máxima absoluta $v_{máx}$ en cada luz y su posición $x$. ¿Cuál es la mayor de todas?
 - Explicar para cada una de las variables simbólicas cómo modifican las deflexiones máximas. Ejemplo: como $E$ está en el denominador, provoca que la deflexión disminuya proporcionalmente. 
 ### B. Diseño
 Las vigas tienen los siguientes parámetros:
@@ -118,11 +118,11 @@ Con los valores reemplazados, usando la librería matplotlib de Python:
 - ¿Cuál es la interpretación física de $\sigma_2$ y $\theta_2$ en el concreto reforzado?
 - ¿Cuál es la interpretación física de $\tau_{máx}$? en el concreto reforzado? En particular para la viga dada ¿qué interpretación genera?
 17. **Alternativa de diseño (esquemático):**
-- Siguiendo el ejemplo de clase
+- Siguiendo el ejemplo de clase realizar un diseño esquemático del acero con el método de puntal-tensor. En la figura 4.23 se explica adecuadamente. Recuerde que se basa en $\sigma_1$.
 18. **Diseño convencional (esquemático):**
 Siguiendo el ejemplo de clase realizar un diseño esquemático del acero (no poner dimensiones, sino graficar en una escala aproximada) en el que se muestre:
-- Las zonas de mayor y menor concentración de flejes.
-- Las zonas de mayor y menos concentración de barras longitudinales de acero.
+- Las zonas de mayor y menor concentración de flejes (constrastar con el gráfico de V(x)).
+- Las zonas de mayor y menos concentración de barras longitudinales de acero (constrastar con el gráfico de M(x)).
 19. **Conclusiones:**
 Se deben escribir varias conclusiones generales de la interpretación de los gráficos, ecuaciones y fenómenos físicos. Algunas preguntas orientadoras (obligatorio responder):
 - ¿Qué diferencia hay entre $\tau_{máx}$ y $\tau_{xy}$ en un punto $x$.
