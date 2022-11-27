@@ -26,7 +26,7 @@ Los pasos del 1 al 6 deberán realizarse con todas las variables simbólicas (no
 ### A. Análisis
 Dada una viga con sección transversal constante, se deben hacer dos análisis:
 - Con módulo de elasticidad costante para toda la viga, $E$, realizando todos los cálculos, análisis y gráficas propuestas para el análisis en términos de las variables simbólicas.
-- Con módulo de elasticidad variable de forma lineal realizando todos los cálculos, análisis y gráficas propuestas para el análisis en términos de las variables simbólicas. Suponer que la viga tiene un módulo de elasticidad $E_1$ a la izquieda y $E_2$ a la derecha (variación lineal). Tener en cuenta que $E_1 < E_2$.
+- Con módulo de elasticidad variable de forma lineal realizando todos los cálculos, análisis y gráficas propuestas para el análisis en términos de las variables simbólicas. Suponer que la viga tiene un módulo de elasticidad $E_1$ a la izquieda y $E_2$ a la derecha (variación lineal). Tener en cuenta que $E_1 < E_2$. (Este procedimiento no es obligatorio, si lo hace, podrá obtener **[+1.0]**.
 
 **Nota:** Hay ejercicios con vigas hiperestáticas, entonces para poder hallar sus reacciones se requiere dejar como incógnitas las reacciones en los apoyos y posteriormemte, despejarlos con las ecuaciones adiciones que ofrecen las rotaciones y las deflexiones.
 
