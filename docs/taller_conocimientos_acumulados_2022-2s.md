@@ -25,31 +25,31 @@ Los pasos del 1 al 6 deberán realizarse con todas las variables simbólicas (no
 
 ### A. Análisis
 Dada una viga con sección transversal constante, se deben hacer dos análisis:
-- Con módulo de elasticidad costante para toda la viga, $E$, realizando todos los cálculos, análisis y gráficas en términos de las variables simbólicas.
-- Con módulo de elasticidad variable de forma lineal realizando todos los cálculos, análisis y gráficas en términos de las variables simbólicas. Suponer que la viga tiene un módulo de elasticidad $E_1$ a la izquieda y $E_2$ a la derecha (variación lineal). Tener en cuenta que $E_1 < E_2$.
+- Con módulo de elasticidad costante para toda la viga, $E$, realizando todos los cálculos, análisis y gráficas propuestas para el análisis en términos de las variables simbólicas.
+- Con módulo de elasticidad variable de forma lineal realizando todos los cálculos, análisis y gráficas propuestas para el análisis en términos de las variables simbólicas. Suponer que la viga tiene un módulo de elasticidad $E_1$ a la izquieda y $E_2$ a la derecha (variación lineal). Tener en cuenta que $E_1 < E_2$.
 
 **Nota:** Hay ejercicios con vigas hiperestáticas, entonces para poder hallar sus reacciones se requiere dejar como incógnitas las reacciones en los apoyos y posteriormemte, despejarlos con las ecuaciones adiciones que ofrecen las rotaciones y las deflexiones.
 
 1. **Cálculo de reacciones:**
 - Calcular las ecuaciones de todas las reacciones en los apoyos de la viga (mostrar procedimiento y diagramas de cuerpo libre).
 2. **Determinación de condiciones de frontera:**
-- Definir cuáles son las condiciones de frontera de la ecuación diferencial. Esto debe ser esquematizado o dibujado, es decir, debe mostrar qué significa cada condición de frontera. En las vigas que son descritas con funciones a trozos se debe considerar que $\theta(x)$ por la izquierda es igual $\theta(x)$ por la derecha para un mismo punto, así como, $v(x)$ por la izquierda es igual $v(x)$ por la derecha. Y debido a que no hay momentos aplicados, lo mismo ocurre para $M(x)$.
+- Definir cuáles son las condiciones de frontera de la ecuación diferencial fundamental de EB. Esto debe ser esquematizado o dibujado, es decir, debe mostrar qué significa cada condición de frontera. En las vigas que son descritas con funciones a trozos se debe considerar que $\theta(x)$ por la izquierda es igual $\theta(x)$ por la derecha para un mismo punto, así como, $v(x)$ por la izquierda es igual $v(x)$ por la derecha. Y debido a que no hay momentos aplicados, lo mismo ocurre para $M(x)$.
 3. **Cálculo y análisis de la gráfica de cortantes:**
-- Hallar la(s) ecuacion(es) que describen $V(x)$.
+- Hallar la(s) ecuacion(es) que describe(n) $V(x)$.
 - Determinar los $V(x)$ máximos y mínimos y sus posiciones $x$.
 - Gráficar esquemáticamente $V(x)$ con las concavidades adecuadas y sus puntos característicos.
 - ¿Cuál es la interpretación física de un diagrama de cortantes $V(x)$? (concepto visto en estática).
 4. **Cálculo y análisis de la gráfica de momentos:**
-- Hallar la(s) ecuacion(es) que describen $M(x)$.
+- Hallar la(s) ecuacion(es) que describe(n) $M(x)$.
 - Determinar los $M(x)$ máximos y mínimos y sus posiciones $x$.
 - Gráficar esquemáticamente $M(x)$ con las concavidades adecuadas y sus puntos característicos.
 - ¿Cuál es la interpretación física de un diagrama de momentos flectores $M(x)$? (concepto visto en estática y m. sólidos).
 5. **Cálculo y análisis de la gráfica de giros:**
-- Hallar la(s) ecuacion(es) que describen $\theta(x)$.
+- Hallar la(s) ecuacion(es) que describe(n) $\theta(x)$.
 - Determinar los $\theta(x)$ máximos y mínimos y sus posiciones $x$.
 - Gráficar esquemáticamente $\theta(x)$ con las concavidades adecuadas y sus puntos característicos.
 6. **Cálculo y análisis de la gráfica de deflexiones:**
-- Hallar la(s) ecuacion(es) que describen $v(x)$.
+- Hallar la(s) ecuacion(es) que describe(n) $v(x)$.
 - Gráficar esquemáticamente $v(x)$ con las concavidades adecuadas y sus puntos característicos.
 - Hallar la ecuación de la deflexión máxima absoluta $v_{máx}$ en cada luz y su posición $x$. ¿Cuál es la mayor de todas?
 - Explicar para cada una de las variables simbólicas cómo modifican las deflexiones máximas. Ejemplo: como $E$ está en el denominador, provoca que la deflexión disminuya proporcionalmente. 
@@ -71,27 +71,27 @@ Las vigas tienen los siguientes parámetros:
 Los pasos del 7 al 16 se realizan adaptando el programa [27- Diseño de concreto](https://github.com/jnramirezg/mecanica_de_solidos/blob/main/codigo/27-diseno_concreto_reforzado.ipynb), pero las respuestas a las preguntas y el análisis deben ir dentro del trabajo en .pdf.
 
 7. **Dimensionamiento de la viga:**
-- Se debe "diseñar" las dimensiones de la viga, de tal forma que $b$ y $h$ sean suficientes evitar que la deflexión máxima de la viga sea mayor que $luz-libre/360$ (exigido por los códigos de construcción). Nota: Recuerde que la luz libre es la distancia entre dos apoyos, es decir, hay vigas con varios apoyos; por lo tanto, se debe evaluar varias veces.
+- Se debe "diseñar" las dimensiones de la viga, de tal forma que $b$ y $h$ sean suficientes evitar que la deflexión máxima de la viga sea mayor que $luz-libre/360$ (exigido por los códigos de construcción). **Nota:** Recuerde que la luz libre es la distancia entre dos apoyos, es decir, hay vigas con varias luces; por lo tanto, se deben evaluar varias veces.
 - ¿Qué ocurre si se define un valor de $h$ menor que $b$? ¿Es acertado hacer esto desde la ingeniería? ¿Por qué? Explicar el concepto matemático detalladamente.
-- Teniendo en cuenta las ecuaciones, en la vida práctica cómo se pueden aumentar la rigidez de la viga (discutir aspectos del material y de la geometría).
+- Teniendo en cuenta las ecuaciones, en la vida práctica cómo se pueden aumentar la rigidez de la viga (discutir aspectos del material y de la geometría de la estructura).
 8. **Revisión de hipótesis fundamentales:**
-- Se debe hacer un análisis del cumplimiento de las hipótesis fundamentales de la teoría EB.
+- Se debe hacer un análisis del cumplimiento de las hipótesis fundamentales de la teoría EB. ¿Por qué se cumple cada una de ellas?
 9. **Propiedades:**
 - Establecer las propiedades geométricas de la viga y las propiedades elásticas del material.
 10. **Gráficas de cortantes, momentos, rotaciones y deflexiones:**
-Con los valores reemplazados, usando la librería matplotlib de Python:
+Con los valores numéricos reemplazados, usando la librería matplotlib de Python:
 - Graficar $V(x)$.
 - Graficar $M(x)$.
 - Graficar $\theta(x)$.
 - Graficar $v(x)$.
 11. **Cálculo de esfuerzos:**
-- Presentar las ecuaciones.
+- Presentar las ecuaciones a usar.
 - ¿Qué hipótesis/restricciones tienen en cuenta estas ecuaciones usadas? 
 12. **Cálculo de deformaciones:**
-- Presentar las ecuaciones.
+- Presentar las ecuaciones a usar.
 - ¿Qué hipótesis/restricciones tienen en cuenta estas ecuaciones usadas? 
 13. **Cálculo de esfuerzos y direcciones principales, y esfuerzos cortantes máximos:**
-- Presentar las ecuaciones.
+- Presentar las ecuaciones a usar.
 - ¿Qué hipótesis/restricciones tienen en cuenta estas ecuaciones usadas? 
 14. **Análisis de las gráficas de esfuerzos:**
 - Hacer un esquema (a mano) donde se señalen los puntos característicos (máximos, mínimos, valores nulos) de $\sigma_x$.
@@ -118,11 +118,11 @@ Con los valores reemplazados, usando la librería matplotlib de Python:
 - ¿Cuál es la interpretación física de $\sigma_2$ y $\theta_2$ en el concreto reforzado?
 - ¿Cuál es la interpretación física de $\tau_{máx}$? en el concreto reforzado? En particular para la viga dada ¿qué interpretación genera?
 17. **Alternativa de diseño (esquemático):**
-- Siguiendo el ejemplo de clase realizar un diseño esquemático del acero con el método de puntal-tensor. En la figura 4.23 se explica adecuadamente. Recuerde que se basa en $\sigma_1$.
+- Siguiendo el ejemplo de clase realizar un diseño esquemático del acero (no poner dimensiones, sino graficar en una escala aproximada) con el método de puntal-tensor. En la figura 4.23 del main.pdf se explica adecuadamente. Recuerde que se basa en $\sigma_1$. Ubicar únicamente barras de acero longitudinales recto y doblado para suplir las exigencias de acero en todas las direcciones.
 18. **Diseño convencional (esquemático):**
 Siguiendo el ejemplo de clase realizar un diseño esquemático del acero (no poner dimensiones, sino graficar en una escala aproximada) en el que se muestre:
-- Las zonas de mayor y menor concentración de flejes (constrastar con el gráfico de V(x)).
-- Las zonas de mayor y menos concentración de barras longitudinales de acero (constrastar con el gráfico de M(x)).
+- Las zonas de mayor y menor concentración de *flejes* (constrastar con el gráfico de V(x)).
+- Las zonas de mayor y menos concentración de *barras longitudinales* de acero (constrastar con el gráfico de M(x)).
 19. **Conclusiones:**
 Se deben escribir varias conclusiones generales de la interpretación de los gráficos, ecuaciones y fenómenos físicos. Algunas preguntas orientadoras (obligatorio responder):
 - ¿Qué diferencia hay entre $\tau_{máx}$ y $\tau_{xy}$ en un punto $x$.
@@ -132,21 +132,21 @@ Se deben escribir varias conclusiones generales de la interpretación de los gr�
 - ¿Por qué el diagrama de momentos $M(x)$ se dibuja invertido? ¿Qué representa?
 - ¿Qué relación tiene $M(x)$ con $\sigma_1$ y sus direcciones $\theta_1$? 
 - ¿Qué relación tiene $V(x)$ con $\sigma_1$ y sus direcciones $\theta_1$?
-- ¿Qué ocurre si se hace $\sigma_y=0$ para toda la viga?
-- ¿Cuál es la importancia de las curvas de nivel en los gráficos?
+- ¿Qué ocurre si se hace $\sigma_y=0$ para toda la viga? ¿Cómo se afectan los resultados?
+- ¿Cuál es la importancia de las curvas de nivel en los gráficos? ¿Qué representan?
 
 ## Archivos requeridos
-Los archivos deberán ser subidos al classroom de forma independiente (no comprimidos). No se aceptan trabajos por ningún otro medio.
+Los archivos deberán ser subidos al **classroom** de forma independiente (no comprimidos). No se aceptan trabajos por ningún otro medio.
 
 - Un archivo .pdf con los procedimientos, cálculos y respuestas solicitados. Deberá estar escaneado con buena calidad y completamente legible. 
 - Un archivo .ipynb con el notebook correspondiente.
-- Se advierte que los procedimientos matemáticos sin contexto ni explicación adecuada serán penalizados drásticamente.
 
 ## Bonificaciones
-- Si presenta todo el trabajo en formato Latex (incluso todo desarrollado en Jupyter notebook) recibirá una bonificación de [+1.0]. Las gráficas esquemáticas pueden ser fotografías.
+- Si presenta todo el trabajo en formato Latex (o incluso todo desarrollado en Jupyter notebook) recibirá una bonificación de [+1.0]. Las gráficas esquemáticas pueden ser imagenes escaneadas.
 
 ## Penalizaciones
 - Todo trabajo enviado después de la hora límite recibirá una penalización de **[-0.5]** por cada hora de retraso.
 - Si el modelo que analiza y utiliza es diferente al asignado, la calificación será **0.0.**
-- **[-1.5]** si presenta el trabajo en hojas que no sean completamente blancas, pues esto dificulta muchísimo la calificación.
+- **[-1.5]** si presenta el trabajo en hojas que **no** sean completamente blancas, pues de hacerlo se dificulta muchísimo la calificación.
 - Cualquier ecuación presentada sin contexto no será tenida en cuenta en la calificación.
+- Se advierte que los procedimientos matemáticos sin contexto ni explicación adecuada serán penalizados drásticamente, es decir, anula el punto de la pregunta correspondiente.
