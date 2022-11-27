@@ -26,7 +26,7 @@ Los pasos del 1 al 6 deberán realizarse con todas las variables simbólicas (no
 ### A. Análisis
 Dada una viga con sección transversal constante, se deben hacer dos análisis:
 - Con módulo de elasticidad costante para toda la viga, $E$, realizando todos los cálculos, análisis y gráficas propuestas para el análisis en términos de las variables simbólicas.
-- Con módulo de elasticidad variable de forma lineal realizando todos los cálculos, análisis y gráficas propuestas para el análisis en términos de las variables simbólicas. Suponer que la viga tiene un módulo de elasticidad $E_1$ a la izquieda y $E_2$ a la derecha (variación lineal). Tener en cuenta que $E_1 < E_2$. (Este procedimiento no es obligatorio, si lo hace, podrá obtener **[+1.0]**.
+- Con módulo de elasticidad variable de forma lineal realizando todos los cálculos, análisis y gráficas propuestas para el análisis en términos de las variables simbólicas. Suponer que la viga tiene un módulo de elasticidad $E_1$ a la izquieda y $E_2$ a la derecha (variación lineal). Tener en cuenta que $E_1 < E_2$. (Este procedimiento no es obligatorio, si lo hace, podrá obtener **[+1.0]**).
 
 **Nota:** Hay ejercicios con vigas hiperestáticas, entonces para poder hallar sus reacciones se requiere dejar como incógnitas las reacciones en los apoyos y posteriormemte, despejarlos con las ecuaciones adiciones que ofrecen las rotaciones y las deflexiones.
 
@@ -143,6 +143,7 @@ Los archivos deberán ser subidos al **classroom** de forma independiente (no co
 
 ## Bonificaciones
 - Si presenta todo el trabajo en formato Latex (o incluso todo desarrollado en Jupyter notebook) recibirá una bonificación de [+1.0]. Las gráficas esquemáticas pueden ser imagenes escaneadas.
+- En la parte de análisis se presenta una bonificación si también hace el análisis con módulo de elasticidad variando de forma lineal.
 
 ## Penalizaciones
 - Todo trabajo enviado después de la hora límite recibirá una penalización de **[-0.5]** por cada hora de retraso.
