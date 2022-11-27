@@ -90,7 +90,7 @@ Con los valores reemplazados, usando la librería matplotlib de Python:
 12. **Cálculo de deformaciones:**
 - Presentar las ecuaciones.
 - ¿Qué hipótesis/restricciones tienen en cuenta estas ecuaciones usadas? 
-13. **Cálculo de esfuerzos y direcciones principales:**
+13. **Cálculo de esfuerzos y direcciones principales, y esfuerzos cortantes máximos:**
 - Presentar las ecuaciones.
 - ¿Qué hipótesis/restricciones tienen en cuenta estas ecuaciones usadas? 
 14. **Análisis de las gráficas de esfuerzos:**
@@ -111,7 +111,7 @@ Con los valores reemplazados, usando la librería matplotlib de Python:
 - De acuerdo con la ecuación de $\gamma_{xy}$ ¿cuál(es) es(son) la(s) variable(s) dominante(s) que genera(n) la forma del gráfico?
 - Interpretar a partir del concepto físico de deformaciones los puntos característicos de $\gamma_{xy}$.
 
-16. **Análisis de las gráficas de esfuerzos y direcciones principales, y $tau_{máx}$**
+16. **Análisis de las gráficas de esfuerzos y direcciones principales, y $\tau_{máx}$**
 - Hacer un esquema (a mano) que muestre el agrietamiento esperado en la viga.
 - Hacer un esquema (a mano) que muestre los puntos de probabilidad de falla inicial de la viga.
 - ¿Cuál es la interpretación física de $\sigma_1$ y $\theta_1$ en el concreto reforzado?
