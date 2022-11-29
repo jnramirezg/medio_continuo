@@ -128,7 +128,7 @@ NOTA MAXIMA 6.0. Tenga en cuenta que la nota tiene un componente individual (los
 
 * La califiación grupal será 0.0 si el grupo que entrega no coincide con el consignado en el classroom en la fecha límite. Tampoco serán recibidos trabajos individuales de estudiantes que no se inscribieron en el classroom en las fechas límites establecidas.
 
-* **-0.3** En cada video por cada hora de retraso en la entrega.
+* **-0.5** en la parte correspondiente del trabajo por cada hora de retraso en la entrega.
 
 
 
