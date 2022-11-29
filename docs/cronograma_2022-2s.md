@@ -57,5 +57,8 @@ Interpretación de gráficos: modelado de estructuras en tensión/deformación p
 - Se realizará en grupos, cuya cantidad de integrantes se acordará con el docente.
 - Las condiciones del talles serán presentadas a más tardar el *lunes 19 de septiembre de 2022* en [Taller de aplicación (opcional)](/docs/taller_2022-2s.md)
 - **Fecha límite de entrega:** *lunes 28 de noviembre de 2022* (parte individual) - *martes 29 de noviembre de 2022* (parte grupal)
-- La calificación final del taller **remplazará** la ***peor*** calificación de las combinaciones de los exámenes parciales que sumen el 35%: 
-  - Combinación A:
+- La calificación final del taller **remplazará** la ***peor*** calificación de las combinaciones de los evaluación parciales que sumen 35%: 
+  - Combinación A: evaluación parcial 1 (10%), evaluación parcial 2 (15%), evaluación parcial 3 (10%).
+  - Combinación B: evaluación parcial 1 (10%), evaluación parcial 4 (25%).
+  - Combinación C: evaluación parcial 3 (10%), evaluación parcial 4 (25%).
+  - Combinación D: evaluación parcial 1 (10%), evaluación parcial 5 (15%), evaluación parcial 3 (10%).
