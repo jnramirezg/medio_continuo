@@ -12,8 +12,8 @@ El trabajo cuenta con un componente *individual* y uno *grupal*. Los grupos ser�
 | ---                                                                         | ---                             |
 | Creación de aula de [GOOGLE CLASSROOM](https://classroom.google.com/)       | viernes 28 de octubre de 2022 a las 23:59h   |
 | Definición de modelo, software y grupo                                      | domingo 13 de noviembre de 2022 a las 23:59h |
-| Entrega de trabajo individual (**<font color='green'>+3.9</font>**)         | Domingo 27 de noviembre de 2022 a las 23:59h |
-| Entrega de trabajo grupal (**<font color='green'>+2.1</font>**)             | Lunes 28 de noviembre de 2022 a las 23:59h   |
+| Entrega de trabajo individual (**<font color='green'>+3.9</font>**)         | Lunes 28 de noviembre de 2022 a las 23:59h |
+| Entrega de trabajo grupal (**<font color='green'>+2.1</font>**)             | Martes 29 de noviembre de 2022 a las 23:59h   |
 
 * El taller opcional será calificado hasta **<font color='green'>+6.0</font>** y habrá algunas *penalizaciones*.
 
@@ -124,7 +124,11 @@ NOTA MAXIMA 6.0. Tenga en cuenta que la nota tiene un componente individual (los
 
 * **-1.0** Si se modela una estructura diferente a la registrada.
 
-* **-1.0** En cada vídeo si no se incluye en el video un recuadro donde se donde se vea usted hablando sobre el software. En caso de que no tenga cámara de video podría utilizar aplicaciones como [DroidCam](https://play.google.com/store/apps/details?id=com.dev47apps.droidcam) o [DroidCam OBS](https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam), con los cuales se puede utilizar su celular como cámara para el computador.
+* **-1.0** En cada video si no se incluye en el video un recuadro donde se donde se vea usted hablando sobre el software. En caso de que no tenga cámara de video podría utilizar aplicaciones como [DroidCam](https://play.google.com/store/apps/details?id=com.dev47apps.droidcam) o [DroidCam OBS](https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam), con los cuales se puede utilizar su celular como cámara para el computador.
+
+* La califiación grupal será 0.0 si el grupo que entrega no coincide con el consignado en el classroom en la fecha límite. Tampoco serán recibidos trabajos individuales de estudiantes que no se inscribieron en el classroom en las fechas límites establecidas.
+
+* **-0.3** En cada video por cada hora de retraso en la entrega.
 
 
 
