@@ -56,11 +56,6 @@ Tener en cuenta las [condiciones generales](/docs/cronograma_2022-2s.md#sobre-la
 - Los ejercicios propuestos y las preguntas de control de lectura de los capítulos 3 y 4 (solo los relacionados con las secciones 4.1, 4.2 y 4.3).
 - Todos los comandos de los programas [14](/codigo/14-(3_4)-def_otras_dir(1).ipynb), [15](/codigo/15-(3_4)-def_otras_dir(2).ipynb), [16](/codigo/16-(3_4_2)-ejemplo_cambio_base.ipynb), [17](/codigo/17-(3_4_3)_ejemplo_varias_galgas.ipynb), [18](/codigo/18-(4_3_2)-modulo_cortante.ipynb), [19](/codigo/19-(4_3_3)-ley_hooke_isotropos.ipynb), [20](/codigo/20-(4_3_3)-alter-ley_hooke_isotropos.ipynb), [21](/codigo/21-(4_3_5)-ley_hooke_ortotropos.ipynb) y [22](/codigo/22-de_ortotropos_a_isotropos.ipynb).
 
-# Examen 5 (30%): martes 06 de diciembre de 2022 [(Solución)](/docs/SOL-examen_5-2022-2s.pdf)
+# Examen 5 (15%): martes 06 de diciembre de 2022 [(Solución)](/docs/SOL-examen_5-2022-2s.pdf)
 Tener en cuenta las [condiciones generales](/docs/cronograma_2022-2s.md#sobre-la-evaluación).
-- De la sección 4.3.5. del main.pdf, la deducción de la matriz constitutiva en otro sistema de coordenadas.
-- Del capítulo 4 del main.pdf, las secciones 4.4, 4.5, 4.6, 4.7, 4.8, 4.9 y 4.10.
-- Los ejercicios propuestos y las preguntas de control de lectura del capítulo 4 (solo los relacionados con las secciones 4.4, 4.5, 4.6, 4.7, 4.8, 4.9 y 4.10).
-- Del capítulo 9 del main.pdf, las secciones 9.1, 9.2, 9.3, 9.4, 9.5, 9.6, 9.7, 9.8, 9.9 y 9.10.
-- Los ejercicios propuestos y las preguntas de control de lectura del capítulo 9 (solo los relacionados con las secciones 9.1, 9.2, 9.3, 9.4, 9.5, 9.6, 9.7, 9.8, 9.9 y 9.10).
 - Del capítulo 5 del main.pdf, las secciones xx, xx, xx.
