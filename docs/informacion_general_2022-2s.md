@@ -83,6 +83,7 @@ Se espera que al final del curso, el estudiante esté en capacidad de:
 
 
 <sub>(*) O su equivalente: Resistencia de Materiales</sub>
+
 <sub>(**) No está definido en el Acuerdo 300 de 2018 del CFIA</sub>
 
 ## Asignaturas siguientes
