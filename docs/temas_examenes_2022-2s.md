@@ -60,4 +60,4 @@ Tener en cuenta las [condiciones generales](/docs/cronograma_2022-2s.md#sobre-la
 Tener en cuenta las [condiciones generales](/docs/cronograma_2022-2s.md#sobre-la-evaluación).
 - Del capítulo 5 del main.pdf, todas las secciones (excepto la sección 5.6).
 - Los ejercicios propuestos y las preguntas de control de lectura de los capítulos 5 (excepto los relacionados con la sección 5.6).
-- Las siguientes funciones de Sympy: symbols: ```diff```, subs, solve, integrate.
+- Las siguientes funciones de ```Sympy```: ```symbols```, ```diff```, ```subs```, ```solve```, ```integrate```.
