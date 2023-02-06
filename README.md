@@ -7,7 +7,7 @@ _"Cum cogitaveris quot te antecedant, respice quot sequantur"_ Séneca
 
 - **Docente:** Juan Nicolás Ramírez Giraldo 
 - **Correo:** jnramirezg@unal.edu.co
-- **Créditos:** 3
+
 
 ## Contenido
 - [Código](/codigo)
