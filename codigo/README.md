@@ -17,7 +17,7 @@ Si quiere correr por usted mismo uno de los cuadernos, o hacer una copia para es
 | [07-tens. y dir. pples en 3D (2.8.2)](07-(2_8_2)-tens_dir_princ_3d.ipynb)    | [08-ejemplo (2.8.2)](08-(2_8_2)-ejemplo_1.ipynb)                 |             |
 |                                                                              | [09-ortogonalidad direcciones principales (2.8.4)](09-(2_8_4)_ortogonalidad_dir_pples.ipynb)|   |
 |                                                                              | [10-ejemplo circulo de Mohr 2D (2.9.4)](10-(2_9_4)-ejemplo_circulo_mohr_2d.ipynb)| [11-circulo de Mohr 2D](11-circulo_mohr_2d_interactivo.ipynb)|
-| [12-circulo de mohr 3D](12-(2_9_7)-circulo_mohr_3d.ipynb)                    |                                                                  | [13-circulo de Mohr 3D]()|
+| [12-circulo de mohr 3D](12-(2_9_7)-circulo_mohr_3d.ipynb)                    |                                                                  | [13-circulo de Mohr 3D](13-circulo_mohr_3d_interactivo.ipynb)|
 
 Adicionalmente: 
 - [circulo_mohr_2d.py](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_02/circulo_mohr_2d.py) ([ver gráfico](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_02/mygif.gif)) que muestra el proceso de graficación del Círculo de Mohr en 2D. Recuerde que mientras el sólido gira en sentido antihorario, el círculo se construye en sentido horario entre [0, 180°):
